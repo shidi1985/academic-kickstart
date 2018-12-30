@@ -12,8 +12,8 @@ weight = 5
   interests = [
     "Power System",
     "Data Analytics",
-    "Energy Storage System"
-    "Artificial Intelligence"
+    "Energy Storage System",
+    "Artificial Intelligence",
     "Internet of Things"
   ]
 
