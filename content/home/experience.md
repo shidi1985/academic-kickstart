@@ -26,8 +26,8 @@ date_format = "January 2006"
   company = "NEC Laboratories America"
   company_url = ""
   location = "California"
-  date_start = "2012-6-11"
-  date_end = "2015-10-1"
+  date_start = "2012-06-11"
+  date_end = "2015-10-01"
   description = """ Lead a team of 14 researchers and 10+ PhD students to develop innovative technologies and solutions for power systems in the areas of PMU data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
  
 [[experience]]
