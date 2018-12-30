@@ -28,13 +28,5 @@ date_format = "January 2006"
   description = """ Lead a team of 14 researchers and 10+ PhD students to develop innovative technologies and solutions for power systems in the areas of PMU data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
  
 
-[[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
