@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2015-10-01"
   date_end = ""
-  description = """ Lead a team of 10+ researchers to develop innovative technologies and solutions for power systems in advannced data analytics, system modeling, optimization, and control"""
+  description = """ Lead a team of 14 researchers and 10+ PhD students to develop innovative technologies and solutions for power systems in the areas of PMU data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
  
 
 [[experience]]
