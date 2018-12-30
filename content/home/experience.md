@@ -31,12 +31,14 @@ date_format = "January 2006"
   description = """ Lead a team of 14 researchers and 10+ PhD students to develop innovative technologies and solutions for power systems in the areas of PMU data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
  
 [[experience]]
-  title = "Research Staff Member"
-  company = "NEC Laboratories America"
+  title = "Department Head/Principal Engineer"
+  company = "GEIRI North America"
   company_url = ""
   location = "California"
-  date_start = "2012-6-01"
-  date_end = "2015-10-1"
-  description = """ Lead multiple R&D projects in the areas of microgrids, energy storage, renewable integration, and hardware testbed development """
+  date_start = "2015-10-02"
+  date_end = ""
+  description = """ Lead a team of 14 researchers and 10+ PhD students to develop innovative technologies and solutions for power systems in the areas of PMU data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
+ 
+
 
 +++
