@@ -25,9 +25,9 @@ date_format = "January 2006"
   location = "California"
   date_start = "2015-10-01"
   date_end = ""
-  description = "Lead a team of 10+ researchers to develop innovative technologies and solutions for power systems in advannced data analytics, system modeling, optimization, and control"
+  description = """
   Responsibilities include:
-  
+  Lead a team of 10+ researchers to develop innovative technologies and solutions for power systems in advannced data analytics, system modeling, optimization, and control
 
 [[experience]]
   title = "Professor"
