@@ -20,6 +20,24 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Research Assistant"
+  company = "Arizona State University (ASU)"
+  company_url = ""
+  location = "Tempe/AZ"
+  date_start = "2007-08-09"
+  date_end = "2009-07-31"
+  description = """"""
+
+[[experience]]
+  title = "Research Associate"
+  company = "Arizona State University (ASU)"
+  company_url = ""
+  location = "Tempe/AZ"
+  date_start = "2009-08-01"
+  date_end = "2012-05-31"
+  description = """"""
+
+[[experience]]
   title = "Research Intern"
   company = "Electric Power Research Institute (EPRI)"
   company_url = ""
