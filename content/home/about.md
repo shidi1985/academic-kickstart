@@ -37,10 +37,7 @@ weight = 5
 
 # Biography
 
-Dr. Di Shi is a Principal Engineer and Department Head of the PMU & System Analytics Group at GEIRI North America. He received his Ph.D. and M.S. degrees in EE from Arizona State University, and a B.S. degree in EE from Xi'an Jiaotong University.
+Dr. Di Shi is a Principal Engineer and Department Head of the PMU & System Analytics Group at GEIRI North America. He also directs the Advanced Power System Laboratory. He received both his Ph.D. and M.S. degrees in EE from Arizona State University, and a B.S. degree in EE from Xi'an Jiaotong University.
 
-Dr. Shi is
+Dr. Shi serves as an Editor of IEEE Transactions on Smart Grid, and Vice Chair of the System Stem at Power System Engineering Research Center (PSERC).
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
