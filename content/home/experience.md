@@ -19,14 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "Research Staff Member"
-  company = "NEC Laboratories America"
-  company_url = ""
-  location = "California"
-  date_start = "2012-6-01"
-  date_end = ""
-  description = """ Lead multiple R&D projects in the areas of microgrids, energy storage, renewable integration, and hardware testbed development """
+
 
 [[experience]]
   title = "Department Head/Principal Engineer"
