@@ -26,7 +26,7 @@ date_format = "January 2006"
   location = "Tempe/AZ"
   date_start = "2007-08-09"
   date_end = "2009-07-31"
-  description = """Conduct research in PMU data analytics"""
+  description = """Conduct research in PMU data analytics."""
 
 [[experience]]
   title = "Research Associate"
@@ -35,7 +35,7 @@ date_format = "January 2006"
   location = "Tempe/AZ"
   date_start = "2009-08-01"
   date_end = "2012-05-31"
-  description = """Conduct research in power system network reduction for engineering and economic analysis"""
+  description = """Conduct research in power system network reduction for engineering and economic analysis."""
 
 [[experience]]
   title = "Research Intern"
@@ -46,7 +46,6 @@ date_format = "January 2006"
   date_end = "2011-08-25"
   description = """ Conduct research in PMU data visualization, measurement based voltage stability assessment, and software development. """
  
-
 [[experience]]
   title = "Research Staff Member"
   company = "NEC Laboratories America (NECLA)"
