@@ -26,7 +26,7 @@ date_format = "January 2006"
   location = "Tempe/AZ"
   date_start = "2007-08-09"
   date_end = "2009-07-31"
-  description = """"""
+  description = """Conduct research in PMU data analytics"""
 
 [[experience]]
   title = "Research Associate"
@@ -35,7 +35,7 @@ date_format = "January 2006"
   location = "Tempe/AZ"
   date_start = "2009-08-01"
   date_end = "2012-05-31"
-  description = """"""
+  description = """Conduct research in power system network reduction for engineering and economic analysis"""
 
 [[experience]]
   title = "Research Intern"
