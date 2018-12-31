@@ -40,4 +40,4 @@ Dr. Di Shi is a Principal Engineer and Department Head of the PMU & System Analy
 
 Dr. Shi serves as an Editor of IEEE Transactions on Smart Grid, and the Vice Chair of the System Stem at Power System Engineering Research Center (PSERC). Prior to joining GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
 
-Dr. Shi has authored/co-authored over 100 journal and conference papers. He is the inventor of over 20 US patent/patent applications. Two technologies/solutions he developed has been commericialized into products that help customers solve real-world problems and achieve significant energy savings. 
+Dr. Shi has authored/co-authored over 100 journal and conference papers. He is the inventor of over 20 US patent/patent applications. Two technologies/solutions he and his team developed has been commericialized into products that help customers solve real-world problems and achieve significant energy savings. 
