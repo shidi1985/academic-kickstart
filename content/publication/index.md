@@ -26,7 +26,7 @@ abstract = "Hilbert-Huang transform (HHT) has drawn significant attention in pow
 abstract_short = "The problem of using extended Kalman filter to enhance Hilbert-Huang transform in low-frequency oscillation detection in power system is considered."
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
