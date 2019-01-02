@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Projects"
-subtitle = "Please check the department homepage or each researcher's homepage to learn the exciting research projects we are currently working on."
+subtitle = "Please check the department homepage or each researcher's homepage to learn about the exciting research projects we are currently working on."
 
 # Order that this section will appear in.
 weight = 50
