@@ -34,11 +34,11 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["WAMS"]
+projects = ["MG"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["WAMS","PMU"]
+tags = ["MG","Distributed Algorithm"]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/document/8466026"
@@ -70,3 +70,4 @@ math = false
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = ""
++++
