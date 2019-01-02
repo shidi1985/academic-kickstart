@@ -18,7 +18,7 @@ weight = 21
 
 21. D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
-20. D. He, D. Shi, and R. Sharma, “Consensus-based Distributed Cooperative Control for Microgrid Voltage Regulation and Reactive Power Sharing, US Patent 9,882,386.
+20. D. He, D. Shi, and R. Sharma, “Consensus-based Distributed Cooperative Control for Microgrid Voltage Regulation and Reactive Power Sharing,” US Patent 9,882,386.
 
 19. D. Shi, and R. Sharma, “Enhancing Power System Voltage Stability Using Grid Energy Storage for Voltage Support,” US Patent 9,866,029.
 
@@ -26,7 +26,7 @@ weight = 21
 
 17. D. Shi, R. Sharma, and Y. Luo, “Synchronization Control for Reconnecting Microgrid to Main Grid After Islanding,” US Patent 9,720,395.
 
-16. Y. Ye, R. Sharma, and D. Shi, “Adaptive Control of Hybrid Ultracapacitor-battery Storage System for Photovoltaic Output Smoothing, US Patent 9,536,205.
+16. Y. Ye, R. Sharma, and D. Shi, “Adaptive Control of Hybrid Ultracapacitor-battery Storage System for Photovoltaic Output Smoothing,” US Patent 9,536,205.
 
 15. D. Shi, R. Sharma, and Y. Ye, “Distributed Generation Control for Microgrid During Islanding,” US Patent 9,411,389.
 
@@ -58,4 +58,4 @@ weight = 21
 
 2. X. Lu, D. Shi, Y. Xiang. “Method and Device for Distributed Frequency and Voltage Regulation for Power Systems,” US Patent Application No. 62,681,971.
 
-1. Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids Patent Number”, US Patent Application No. 16,179,805.
+1. Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids Patent Number,” US Patent Application No. 16,179,805.
