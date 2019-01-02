@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Di Shi"
+title = "Di Shi - GEIRINA"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -268,7 +268,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
-    link = "http://www.geirina.net/2"
+    link = "http://www.geirina.net/research/2"
 
 
   # Link to a PDF of your resume/CV from the About widget.
