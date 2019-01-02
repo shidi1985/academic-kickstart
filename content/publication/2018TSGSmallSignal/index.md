@@ -26,7 +26,7 @@ abstract = "Distributed control, as a potential solution to decreasing communica
 abstract_short = "This work evaluates the performance of microgrid under distributed control against various factors."
 
 # Is this a selected publication? (true/false)
-selected = yes
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
