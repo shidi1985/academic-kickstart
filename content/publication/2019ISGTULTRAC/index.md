@@ -26,7 +26,7 @@ abstract = "This paper proposes a resilient-backpropagation-neural-network-(Rpro
 abstract_short = "A resilient-backpropagation-neural-network-(Rprop-NN) based algorithm for PV maximum power point tracking is proposed."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
