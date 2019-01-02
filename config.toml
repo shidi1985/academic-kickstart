@@ -63,20 +63,20 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  #email = "test@example.org"
-  #address = "250 W Tasman Dr. Ste. 100, San Jose, CA 95134"
-  #office_hours = """
-  #Monday 10:00 to 13:00<br>
-  #Wednesday 09:00 to 10:00<br>
-  #Otherwise email to book an appointment
+  email = "di.shi@geirina.net"
+  address = ""
+  office_hours = """
+  Monday 10:00 to 13:00<br>
+  Wednesday 09:00 to 10:00<br>
+  Otherwise email to book an appointment
   """
   phone = """
-  #skype = "sdxjtu_1"
-  #telegram = ""
-  #keybase = ""  # Your keybase.io username.
+  skype = "sdxjtu_1"
+  telegram = ""
+  keybase = ""  # Your keybase.io username.
 
   # Enter an optional link for booking appointments (e.g. calendly.com).
-  #appointment_url = ""
+  appointment_url = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
