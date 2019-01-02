@@ -1,6 +1,6 @@
 +++
 title = "A Rprop-Neural-Network-Based PV Maximum Power Point Tracking Algorithm with Short-Circuit Current Limitation"
-date = 2017-06-16T00:00:00
+date = 2017-11-29T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
