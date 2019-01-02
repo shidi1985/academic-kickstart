@@ -23,7 +23,7 @@ publication_short = "In *IEEETSG*"
 
 # Abstract and optional shortened version.
 abstract = "Series FACTS devices are one of the key enablers for very high penetration of renewables due to their capabilities in continuously controlling power flows on transmission lines. This paper proposes a bilevel optimization model to optimally locate variable series reactor (VSR) and phase shifting transformer (PST) in the transmission network considering high penetration of wind power. The upper level problem seeks to minimize the \textcolor{black}{investment cost} on series FACTS, the cost of wind power curtailment and possible load shedding. The lower level problems capture the market clearing under different operating scenarios. Due to the poor scalability of Bθ formulation, the \textsl{shift factor} structure of FACTS allocation is derived. A customized reformulation and decomposition algorithm is designed and implemented to solve the proposed bilevel model with binary variables in both upper and lower levels. Detailed numerical results based on 118-bus system demonstrate the efficient performance of the proposed planning model and the important role of series FACTS for facilitating the integration of wind power."
-abstract_short = "The problem of optimal placement of FACTS device under very high penetration of renewables."
+abstract_short = "The problem of optimal placement of FACTS device under very high penetration of renewables is considered."
 
 # Is this a selected publication? (true/false)
 selected = false
