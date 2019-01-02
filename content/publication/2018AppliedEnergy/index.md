@@ -26,7 +26,7 @@ abstract ="Demand response has been implemented by distribution system operators
 abstract_short = "An optimal energy management approach considering comfort levels of customers is proposed."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
