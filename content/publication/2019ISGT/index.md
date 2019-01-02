@@ -26,7 +26,7 @@ abstract = "In this paper, a neural-network (NN)-based online optimal control me
 abstract_short = "A neural-network (NN)-based online optimal control method (NN-OPT) is proposed for ultra-capacitors (UCs) energy storage system (ESS) in hybrid AC/DC microgrids."
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
