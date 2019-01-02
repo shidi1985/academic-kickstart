@@ -15,6 +15,7 @@ weight = 60
 
 +++
 [GRANTED]
+
 1.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
 2.	D. He, D. Shi, and R. Sharma, “Consensus-based Distributed Cooperative Control for Microgrid Voltage Regulation and Reactive Power Sharing, US Patent 9,882,386.
