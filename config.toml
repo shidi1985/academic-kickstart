@@ -26,7 +26,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-131622279-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -57,21 +57,21 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "GEIRI North America", url = "" } ]
+  organizations = [ { name = "GEIRI North America", url = "http://www.geirina.net" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
   email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  address = "250 W Tasman Dr. Ste. 100, San Jose, CA 95134"
   office_hours = """
   Monday 10:00 to 13:00<br>
   Wednesday 09:00 to 10:00<br>
   Otherwise email to book an appointment
   """
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = "4806219346"
+  skype = "sdxjtu_1"
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -263,7 +263,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "di.shi@geirina.net"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:di.shi@geirina.net"  # For a direct email link, use "mailto:test@example.org".
 
   [[params.social]]
     icon = "twitter"
