@@ -23,7 +23,7 @@ publication_short = "In *IEEETSG*"
 
 # Abstract and optional shortened version.
 abstract = "Load characteristics have substantial influence on the voltage stability of power systems. The self-restorative characteristic and stalling of induction motor loads can deteriorate the voltage stability, so it is necessary to develop accurate and efficient dynamic analysis methods for voltage stability analysis of systems with induction motor loads. In this paper, a set of methods based on holomorphic embedding is proposed, which is able to solve steady states and dynamics of a power system with induction motors. The paper is the first work that applies holomorphic embedding to dynamic problems of power systems. The test cases on the IEEE 14-bus system, the NPCC 140-bus system and the Polish 2383-bus system verify both accuracy and efficiency of the proposed methods."
-abstract_short = "A set of methods based on Holomorphic embedding is proposed to solve dynamic problems of power systems."
+abstract_short = "A set of methods based on Holomorphic embedding are proposed to solve dynamic problems of power systems."
 
 # Is this a selected publication? (true/false)
 selected = false
