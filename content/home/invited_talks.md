@@ -15,7 +15,7 @@ weight = 60
 
 +++
 1.	Dec. 2018, ISO New England
-2.	Dec.2018, State Grid Jiangsu Electric Power Company
+2.	Dec. 2018, State Grid Jiangsu Electric Power Company
 3.	Nov. 2018, NVXL Technology
 4.	Nov. 2018, IEEE International Conference on Energy Internet and Energy Systems Integration 
 5.	Nov. 2018, US-China Green Energy Council (UCGEC)
@@ -43,4 +43,4 @@ weight = 60
 27.	Mar. 2012, Nexant
 28.	Dec. 2011, NEC Laboratories America
 29.	Nov. 2011 Pacific Northwest National Laboratory
-30.	Aug.2011, Electric Power Research Institute
+30.	Aug. 2011, Electric Power Research Institute
