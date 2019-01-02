@@ -11,7 +11,7 @@ title = "Invited Talks"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 61
 
 +++
 1.	December 2018, ISO New England
