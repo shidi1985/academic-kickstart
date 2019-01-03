@@ -300,15 +300,15 @@ enableGitInfo = false
   url = "#teaching"
   weight = 3
   
+  [[menu.main]]
+  name= "Awards"
+  url="#awards"
+  weight=4
+  
  [[menu.main]]
  name = "Talks"
  url="#invited_talks"
- weight=4
-
-[[menu.main]]
-name= "Awards"
-url="#awards"
-weight=5
+ weight=5
 
 [[menu.main]]
 name= "Projects"
