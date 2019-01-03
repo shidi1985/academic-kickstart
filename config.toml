@@ -297,7 +297,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Patents"
-  url = "#custom"
+  url = "#teaching"
   weight = 3
 
 [[menu.main]]
