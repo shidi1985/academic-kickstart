@@ -14,33 +14,33 @@ subtitle = ""
 weight = 24
 
 +++
-30.	Dec. 2018, ISO New England
-29.	Dec.2018, State Grid Jiangsu Electric Power Company
-28.	Nov. 2018, NVXL Technology
-27.	Nov. 2018, IEEE International Conference on Energy Internet and Energy Systems Integration 
-26.	Nov. 2018, US-China Green Energy Council (UCGEC)
-25.	Oct. 2018, NARI Group Energy Utilization Branch Company
-24.	Oct. 2018, State Grid Jiangsu Economic Research Institute
-23.	Oct. 2018, State Grid Suzhou Power Supply Branch Company
-22.	Sept. 2018, IEEE SF Chapter
-21.	Aug. 2018, NARI Zijin Forum 
-20.	Aug. 2018, IEEE PES General Meeting
-19.	Nov. 2017, IEEE International Conference on Energy Internet and Energy Systems Integration 
-18.	Oct. 2017, Iowa State University
-17.	Oct. 2017, State Grid Jiangsu Electric Power Company
-16.	Sept. 2017, North American Power Symposium (NAPS) Keynote
-15.	Aug. 2017, Workshop on HVDC Transmission Technology, Mexico City
-14.	Aug. 2017, PSERC Summer Workshop
-13.	Apr. 2017, NASPI Workshop
-12.	Aug. 2016, PSERC IAB Meeting
-11.	July 2016, Electric Power Research Institute
-10.	Nov. 2015, China Southern Power Grid EPRI
-9.	Dec. 2014, Energy Management via Information Technologies
-8.	Dec. 2014, China Southern Power Grid EPRI
-7.	Dec. 2014, China Southern Power Grid
-6.	July 2014, NEC Central Research Laboratory Japan
-5.	Oct. 2013, Energy Management via Information Technologies
-4.	Mar. 2012, Nexant
-3.	Dec. 2011, NEC Laboratories America
-2.	Nov. 2011 Pacific Northwest National Laboratory
-1.	Aug.2011, Electric Power Research Institute
+T30.	Dec. 2018, ISO New England
+T29.	Dec.2018, State Grid Jiangsu Electric Power Company
+T28.	Nov. 2018, NVXL Technology
+T27.	Nov. 2018, IEEE International Conference on Energy Internet and Energy Systems Integration 
+T26.	Nov. 2018, US-China Green Energy Council (UCGEC)
+T25.	Oct. 2018, NARI Group Energy Utilization Branch Company
+T24.	Oct. 2018, State Grid Jiangsu Economic Research Institute
+T23.	Oct. 2018, State Grid Suzhou Power Supply Branch Company
+T22.	Sept. 2018, IEEE SF Chapter
+T21.	Aug. 2018, NARI Zijin Forum 
+T20.	Aug. 2018, IEEE PES General Meeting
+T19.	Nov. 2017, IEEE International Conference on Energy Internet and Energy Systems Integration 
+T18.	Oct. 2017, Iowa State University
+T17.	Oct. 2017, State Grid Jiangsu Electric Power Company
+T16.	Sept. 2017, North American Power Symposium (NAPS) Keynote
+T15.	Aug. 2017, Workshop on HVDC Transmission Technology, Mexico City
+T14.	Aug. 2017, PSERC Summer Workshop
+T13.	Apr. 2017, NASPI Workshop
+T12.	Aug. 2016, PSERC IAB Meeting
+T11.	July 2016, Electric Power Research Institute
+T10.	Nov. 2015, China Southern Power Grid EPRI
+T9.	Dec. 2014, Energy Management via Information Technologies
+T8.	Dec. 2014, China Southern Power Grid EPRI
+T7.	Dec. 2014, China Southern Power Grid
+T6.	July 2014, NEC Central Research Laboratory Japan
+T5.	Oct. 2013, Energy Management via Information Technologies
+T4.	Mar. 2012, Nexant
+T3.	Dec. 2011, NEC Laboratories America
+T2.	Nov. 2011 Pacific Northwest National Laboratory
+T1.	Aug.2011, Electric Power Research Institute
