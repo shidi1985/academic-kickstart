@@ -16,7 +16,7 @@ weight = 24
 +++
 T30.	Dec. 2018, ISO New England
 
-T29.	Dec.2018, State Grid Jiangsu Electric Power Company
+T29.	Dec. 2018, State Grid Jiangsu Electric Power Company
 
 T28.	Nov. 2018, NVXL Technology
 
