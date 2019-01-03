@@ -72,4 +72,4 @@ T3.	Dec. 2011, NEC Laboratories America
 
 T2.	Nov. 2011 Pacific Northwest National Laboratory
 
-T1.	Aug.2011, Electric Power Research Institute
+T1.	Aug. 2011, Electric Power Research Institute
