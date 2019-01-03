@@ -27,11 +27,11 @@ weight = 23
 
 2014	NEC Labs Technology Commercialization Award
 
-2014	NEC Spot Recognition Award “Contribution in Bringing NECLA Grid Scale ESS Expertise”
+2014	NEC Spot Recognition Award for “Contribution in Bringing NECLA Grid Scale ESS Expertise”
 
-2013	NEC Spot Recognition Award “Success of Proof-of-Concept Project at MPI Indonesia”
+2013	NEC Spot Recognition Award for “Success of Proof-of-Concept Project at MPI Indonesia”
 
-2013	NEC Spot Recognition Award “Success of Proof-of-Concept Project at Celcom Maylasia”
+2013	NEC Spot Recognition Award for “Success of Proof-of-Concept Project at Celcom Maylasia”
 
 2012, 2009	University Graduate Fellowship, Arizona State University
 
