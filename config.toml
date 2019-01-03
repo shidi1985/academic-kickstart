@@ -295,14 +295,14 @@ enableGitInfo = false
   url = "#publications_selected"
   weight = 2
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+ # name = "Posts"
+  #url = "#posts"
+  #weight = 3
 
 [[menu.main]]
-  name = "Invited Talks"
-  url = "#Invited Talks"
+  name = "Contact"
+  url = "#contact"
   weight = 4
   
 # Link to a PDF of your resume/CV from the menu.
