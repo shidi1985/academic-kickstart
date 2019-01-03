@@ -33,7 +33,11 @@ weight = 23
 
 2013	NEC Spot Recognition Award for “Success of Proof-of-Concept Project at Celcom Maylasia”
 
-2012, 2009	University Graduate Fellowship, Arizona State University
+2012  University Graduate Fellowship, Arizona State University
+
+2011  DEED Scholarship ($4,000 Research Fund), American Public Power Association
+
+2009	University Graduate Fellowship, Arizona State University
 
 2007	Champion of Asia-Pacific Robot Contest 2007 (representing China)
 
