@@ -48,9 +48,9 @@ P8. Z. Yi, H. Li, Z. Wang, R. Diao, X. Zhao, and D. Shi, “MPC-Based PV Maximum
 
 P7. J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System based on Reinforcement Learning,” US Patent Application. No. 62,739,465.
 
-P6. Z. Yu, Y. Wang, H. Li, C. Fu, Z. W, and D. Shi, “An Approach of Parameter Estimation for Composite Load Based on Bayesian Estimation,” US Patent Application No: 62,756.387.
+P6. Z. Yu, Y. Wang, H. Li, C. Fu, Z. W, and D. Shi, “An Approach of Parameter Estimation for Composite Load Based on Bayesian Estimation,” US Patent Application No: 62,756,387.
 
-P5. Y. Wang, D. Shi, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent Application No. 62,757.097.
+P5. Y. Wang, D. Shi, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent Application No. 62,757,097.
 
 P4. Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
 
