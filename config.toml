@@ -299,11 +299,16 @@ enableGitInfo = false
   name = "Patents"
   url = "#teaching"
   weight = 3
+  
+ [[menu.main]]
+ name = "Talks"
+ url="#invited_talks"
+ weight=4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 4
+  weight = 5
   
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
