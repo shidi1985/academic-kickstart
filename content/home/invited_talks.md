@@ -15,7 +15,9 @@ weight = 24
 
 +++
 T30.	Dec. 2018, ISO New England
+
 T29.	Dec.2018, State Grid Jiangsu Electric Power Company
+
 T28.	Nov. 2018, NVXL Technology
 T27.	Nov. 2018, IEEE International Conference on Energy Internet and Energy Systems Integration 
 T26.	Nov. 2018, US-China Green Energy Council (UCGEC)
