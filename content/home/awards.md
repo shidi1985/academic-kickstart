@@ -41,4 +41,4 @@ weight = 23
 
 2007	Outstanding Graduate of Shaan Xi Province (top 1%)
 
-2004-2007	A total of five Scholarships from XJTU (all for top 1%)
+2004 - 2007	A total of five Scholarships from XJTU (all for top 1%)
