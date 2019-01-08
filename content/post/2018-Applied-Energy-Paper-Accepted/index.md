@@ -1,5 +1,5 @@
 +++
-title = "One paper on EMS for commercial building is accepted by App. Ener."
+title = "One paper on Energy Management for commercial building is accepted by Applied Energy."
 date = 2018-12-08T00:00:00
 
 # List format.
