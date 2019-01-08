@@ -1,5 +1,5 @@
 +++
-title = "A Neuron-Network-Based Optimal Control of Ultra-Capacitors with System Uncertainties"
+title = "A Neural-Network-Based Optimal Control of Ultra-Capacitors with System Uncertainties"
 date = 2019-01-01T00:00:00
 draft = false
 
