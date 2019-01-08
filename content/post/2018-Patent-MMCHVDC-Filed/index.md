@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-A US patent application has been filed for our technology on modeling MMV-HVDC for power system simulation, with title of the invention "Generalized Equivalent Circuit Model of MMC-HVDC for Power System Simulation"
+A US patent application has been filed for our technology on modeling MMC-HVDC for power system simulation, with the following title "Generalized Equivalent Circuit Model of MMC-HVDC for Power System Simulation"
