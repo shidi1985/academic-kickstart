@@ -1,5 +1,5 @@
 +++
-title = "Our 'Grid Eye' system has been reliably running in the control room for 2.5 years."
+title = "Our 'Grid Eye' system has been reliably running in the control room for 32 months."
 date = 2019-01-08T00:00:00
 
 # List format.
