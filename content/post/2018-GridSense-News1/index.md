@@ -1,12 +1,12 @@
 +++
-title = "Our Grid Sense solution has been successfully transferred to NARI Group. Multiple pilot projects are in progress now."
+title = "Our Grid Sense solution (hardware+software) has been successfully transferred to NARI Group. Multiple pilot projects have been planned and are in progress now."
 date = 2018-09-01T00:00:00
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
 #   2 = Stream
-list_format = 2
+list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 #[header]
@@ -16,7 +16,7 @@ list_format = 2
 
 [image]
   # Caption (optional)
-  caption = "/strplug.png"
+  caption = "Grid Sense Cloud Interface"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
