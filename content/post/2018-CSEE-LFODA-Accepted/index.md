@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our paper "A Real-time Robust Low-Frequency Oscillation Detection and Analysis (LFODA) System with Innovative Ensemble Filtering" is accepted by CSEE Journal of Power and Energy Systems. Get a pre-print here:https://www.geirina.net/assets/paper/A%20Real-time%20Robust%20Low-Frequency%20Oscillation%20Detection%20and%20Analysis%20(LFODA)%20System%20with%20Innovative%20Ensemble%20Filtering.pdf
+Our paper "A Real-time Robust Low-Frequency Oscillation Detection and Analysis (LFODA) System with Innovative Ensemble Filtering" is accepted by CSEE Journal of Power and Energy Systems. Get a pre-print here: https://www.geirina.net/assets/paper/A%20Real-time%20Robust%20Low-Frequency%20Oscillation%20Detection%20and%20Analysis%20(LFODA)%20System%20with%20Innovative%20Ensemble%20Filtering.pdf
