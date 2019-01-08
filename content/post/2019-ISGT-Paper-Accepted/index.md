@@ -1,6 +1,6 @@
 +++
 title = "Two papers on AI are accepted by ISGT 2019."
-date = 2019-12-08T00:00:00
+date = 2018-12-08T00:00:00
 
 # List format.
 #   0 = Simple
