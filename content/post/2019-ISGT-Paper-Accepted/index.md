@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our papers "A Neural-Network-Based Optimal Control of Ultra-Capacitors with System Uncertainties" and "A Rprop-Neural-Network-Based PV Maximum Power Point Tracking Algorithm with Short-Circuit Current Limitation" are accepted by ISGT 2019.
+Our papers "A Neural-Network-Based Optimal Control of Ultra-Capacitors with System Uncertainties" and "A Rprop-Neural-Network-Based PV Maximum Power Point Tracking Algorithm with Short-Circuit Current Limitation" are both accepted by ISGT 2019.
