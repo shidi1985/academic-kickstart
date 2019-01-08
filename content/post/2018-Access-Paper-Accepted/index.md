@@ -1,5 +1,5 @@
 +++
-title = "One paper on Demand-side management considering communication & cyber security limitations is accepted."
+title = "Paper on Demand-side management considering communication & cyber security limitations is accepted."
 date = 2018-12-01T00:00:00
 
 # List format.
