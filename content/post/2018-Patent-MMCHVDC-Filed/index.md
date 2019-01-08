@@ -1,5 +1,5 @@
 +++
-title = "One US patent app. on MMC-HVDC for power system simulation has been filed."
+title = "One US patent app. on MMC-HVDC for power system simulation is filed."
 date = 2018-12-01T00:00:00
 
 # List format.
