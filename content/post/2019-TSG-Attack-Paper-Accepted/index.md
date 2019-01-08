@@ -1,6 +1,6 @@
 +++
-title = "Chloe arrived!"
-date = 2018-06-24T00:00:00
+title = "TSG Paper Accepted"
+date = 2019-01-08T00:00:00
 
 # List format.
 #   0 = Simple
@@ -16,11 +16,11 @@ list_format = 0
 
 [image]
   # Caption (optional)
-  caption = "Photo by Zhe Yu"
+  caption = ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 
 +++
-My daughter Chloe arrived after one week struggle in hospital. Thanks to my wife and everyone who helped us!
+Our paper "Online Identification and Data Recovery for PMU Data Manipulation Attack" is accepted.
