@@ -1,6 +1,6 @@
 +++
 title = "Our 'Grid Sense' solution has been successfully transferred to NARI Group. Multiple pilot projects are in progress now."
-date = 2018-09-01T00:00:00
+date = 2019-01-06T00:00:00
 
 # List format.
 #   0 = Simple
