@@ -1,5 +1,5 @@
 +++
-title = "Our 'Grid Sense' solution has been successfully transferred to NARI Group. Multiple pilot projects are in progress now."
+title = "Our *Grid Sense* solution has been successfully transferred to NARI Group. Multiple pilot projects are in progress now."
 date = 2018-09-01T00:00:00
 
 # List format.
