@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our paper "Online Identification and Data Recovery for PMU Data Manipulation Attack" is accepted by IEEE Transactions on Smart Grid.
+Our paper "Online Identification and Data Recovery for PMU Data Manipulation Attack" is accepted by IEEE Transactions on Smart Grid. Get the preprint from here: https://www.geirina.net/assets/paper/Xinan&Etal2019TSG.pdf
