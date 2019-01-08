@@ -1,5 +1,5 @@
 +++
-title = "TSG Paper Accepted"
+title = "Paper on PMU data manipulation attack is accepted."
 date = 2019-01-08T00:00:00
 
 # List format.
@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our paper "Online Identification and Data Recovery for PMU Data Manipulation Attack" is accepted.
+Our paper "Online Identification and Data Recovery for PMU Data Manipulation Attack" is accepted by IEEE Transactions on Smart Grid.
