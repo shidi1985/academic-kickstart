@@ -1,5 +1,5 @@
 +++
-title = "PMU Assisted Power System Parameter Calibration at Jiangsu Electric Power Company"
+title = "PMU Assisted Power System Parameter Calibration at Jiangsu Electric Power Company [Best Paper]"
 date = 2017-08-10T00:00:00
 draft = false
 
