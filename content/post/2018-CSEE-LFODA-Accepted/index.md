@@ -1,5 +1,5 @@
 +++
-title = "Paper on Real-time Robust Low-freq Oscillation Detection and Analysis System is accepted by CESS JPES."
+title = "Paper on Real-time Robust Low-freq Oscillation Detection and Analysis System is accepted by CSEE JPES."
 date = 2019-01-08T00:00:00
 
 # List format.
