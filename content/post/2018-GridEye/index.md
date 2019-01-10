@@ -24,6 +24,6 @@ list_format = 1
 
 +++
 
-I started the Grid Eye (originally PSPCS, Power System Parameter Calibration System) developmental effort on my own in 2015. In April 2016, I went to the field and successfully deployed the solfware platform at the Grid Dispatch Center of Jiangsu Electric Power Company, one of the largest provincial power systems in China. Since then the system has been collecting real-time synchrophasor measurements from the grid, laying solid foundation for many possible research and development efforts.This has turned out to be one of the most rewarding experience and opportunities for me over the past 3 years. 
+I started the Grid Eye (originally PSPCS, Power System Parameter Calibration System) developmental effort on my own in 2015. In April 2016, I went to the field and successfully deployed the software platform at the Grid Dispatch Center of Jiangsu Electric Power Company, one of the largest provincial power systems in China. Since then the system has been collecting real-time synchrophasor measurements from the grid, laying solid foundation for many possible research and development efforts.This has turned out to be one of the most rewarding experience and opportunities for me over the past 3 years. 
 
 My team has grown since then and together we've built multiple functions (sub-systems) into this platform over the past few years. Presently we are working to include more features/functions into this platform. Talk to me if you'd like to learn more or collaborate.
