@@ -1,5 +1,5 @@
 +++
-title = "Paper on sizing of energy storage system is accepted by MPCE."
+title = "Paper on sizing of energy storage for system robustness enhancement is accepted by MPCE."
 date = 2019-01-11T00:00:00
 
 # List format.
