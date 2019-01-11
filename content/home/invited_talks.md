@@ -70,6 +70,6 @@ T4.	Mar. 2012, Nexant
 
 T3.	Dec. 2011, NEC Laboratories America
 
-T2.	Nov. 2011 Pacific Northwest National Laboratory
+T2.	Nov. 2011, Pacific Northwest National Laboratory
 
 T1.	Aug. 2011, Electric Power Research Institute
