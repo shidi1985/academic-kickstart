@@ -38,6 +38,6 @@ weight = 3
 # 
 Dr. Di Shi is a Principal Engineer and Department Head of the PMU & System Analytics Group at GEIRI North America (GEIRINA). He also directs the Advanced Power System Laboratory (APSL). He received both his Ph.D. and M.S. degrees in EE from Arizona State University (ASU), and a B.S. degree in EE from Xi'an Jiaotong University (XJTU).
 
-Dr. Shi serves as Editor of IEEE Transactions on Smart Grid, Eand the Vice Chair of the System Stem at Power System Engineering Research Center (PSERC). Prior to joining GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
+Dr. Shi serves as Editor of IEEE Transactions on Smart Grid, Editor of IEEE PES Letters, and the Vice Chair of the System Stem at Power System Engineering Research Center (PSERC). Prior to joining GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
 
 Dr. Shi has authored/co-authored over 100 journal and conference papers. He is the inventor of over 20 US patents/patent applications. Two technologies and solutions he and his team developed have been commericialized into products that help customers solve real-world problems and achieve significant energy savings. 
