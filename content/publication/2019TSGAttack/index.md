@@ -1,6 +1,6 @@
 +++
 title = "Online Identification and Data Recovery for PMU Data Manipulation Attack"
-date = 2018-08-07T00:00:00
+date = 2019-01-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
