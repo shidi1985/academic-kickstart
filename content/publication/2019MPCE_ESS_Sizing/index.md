@@ -41,8 +41,8 @@ projects = ["MG"]
 tags = ["ESS"]
 
 # Links (optional).
-url_pdf = ""
-#url_preprint = ""
+url_pdf = "https://geirina.net/assets/paper/MPCE-D-17-00757.pdf"
+url_preprint = "https://geirina.net/assets/paper/MPCE-D-17-00757.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
