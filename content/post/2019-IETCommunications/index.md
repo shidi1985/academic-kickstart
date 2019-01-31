@@ -1,5 +1,5 @@
 +++
-title = "Paper on Performance Evaluation of Communication Technologies and Network Structure is accepted by IET Communications."
+title = "Paper on Performance Evaluation of Communication Technologies and Network Structure for Smart Grids is accepted by IET Communications."
 date = 2019-01-31T00:00:00
 
 # List format.
