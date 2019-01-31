@@ -14,7 +14,7 @@ subtitle = ""
 weight = 23
 
 +++
-2018  Outstanding Researcher, GEIRI North America
+2018  Outstanding Researcher Award, GEIRI North America
 
 2017	Researcher of the Year, GEIRI North America
 
