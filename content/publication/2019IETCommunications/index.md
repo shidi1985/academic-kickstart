@@ -41,8 +41,8 @@ projects = ["MG"]
 tags = ["MG","Distributed Algorithm"]
 
 # Links (optional).
-url_pdf = ""
-#url_preprint = ""
+url_pdf = "https://www.geirina.net/assets/paper/16%20-%20Performance%20Evaluation%20of%20Communication%20Technologies%20and%20Network%20Structure%20for%20Smart%20Grid%20Applications.pdf"
+url_preprint = "https://www.geirina.net/assets/paper/16%20-%20Performance%20Evaluation%20of%20Communication%20Technologies%20and%20Network%20Structure%20for%20Smart%20Grid%20Applications.pdf"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = ""
