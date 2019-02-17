@@ -14,6 +14,8 @@ subtitle = ""
 weight = 24
 
 +++
+T31.  Feb. 2019, Wayne State University, "Internet of Things for Improved Situational Awareness and Control of Future Power Systems"
+
 T30.	Dec. 2018, ISO New England
 
 T29.	Dec. 2018, State Grid Jiangsu Electric Power Company
