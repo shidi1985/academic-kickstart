@@ -30,13 +30,13 @@ P6. Y. Ye, R. Sharma, and D. Shi, “Adaptive Control of Hybrid Ultracapacitor-b
 
 P7. D. Shi, R. Sharma, and Y. Ye, “Distributed Generation Control for Microgrid During Islanding,” US Patent 9,411,389.
 
+P8. R. Sharma, D. Shi, B. Asghari, and R. Patil, “Management of Grid-scale Energy Storage Systems for Multiple Services,” US Patent 10,205,317.
+
 [PENDING]
 
-P8.	X. Lu, X. Wang, D. Shi, Z. Wang, “Data Mining based Approach for Online Calibration of Phasor Measurement Unit,” US Patent Application No. 15,787,365.
+P9.	X. Lu, X. Wang, D. Shi, Z. Wang, “Data Mining based Approach for Online Calibration of Phasor Measurement Unit,” US Patent Application No. 15,787,365.
 
-P9. D. Shi, and R. Sharma, “Distributed Cooperative Control for Microgrid Resynchronization and Reconnection,” US Patent Application No. 20150295581.
-
-P10. R. Sharma, D. Shi, B. Asghari, and R. Patil, “Method for Management of Grid Scale Energy Storage System for Multiple Services,” US Patent Application No. 20160043550.
+P10. D. Shi, and R. Sharma, “Distributed Cooperative Control for Microgrid Resynchronization and Reconnection,” US Patent Application No. 20150295581.
 
 P11. D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 
