@@ -14,6 +14,10 @@ subtitle = ""
 weight = 24
 
 +++
+T33.  Apr. 2019, NASPI Spring Working Group Meeting, "From Grid Eye to Grid Mind-A Data-driven Autonomous Grid Dispatch Robot Based on PMU Measurements"
+
+T32.  Apr. 2019, University of Neveda, Reno, "From Grid Eye to Grid Mind-A Data-driven Autonomous Grid Dispatch Robot Based on PMU Measurements"
+
 T31.  Feb. 2019, Wayne State University, "Internet of Things for Improved Situational Awareness and Control of Future Power Systems"
 
 T30.	Dec. 2018, ISO New England
