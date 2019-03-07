@@ -1,6 +1,6 @@
 +++
-title = "Seven papers from my group are accepted by IEEE PES General Meeting."
-date = 2019-01-08T00:00:00
+title = "Seven papers from my group are accepted by IEEE PES General Meeting 2019."
+date = 2019-03-06T00:00:00
 
 # List format.
 #   0 = Simple
