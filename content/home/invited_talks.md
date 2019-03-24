@@ -14,9 +14,21 @@ subtitle = ""
 weight = 24
 
 +++
-T33.  Apr. 2019, NASPI Spring Working Group Meeting, San Diego
+T39.  May 2019, Stanford University, Palo Alto
 
-T32.  Apr. 2019, University of Neveda, Reno
+T38.  Apr. 2019, University of Tennessee, Knoxville
+
+T37.  Apr. 2019, NASPI Spring Working Group Meeting, San Diego
+
+T36.  Apr. 2019, University of Neveda, Reno
+
+T35.  Mar. 2019, State Grid Jiangsu Electric Power Research Institute, Nanjing
+
+T34.  Mar. 2019, Jiangsu Fangtian Power Technology Corporation
+
+T33.  Mar. 2019, State Grid Zhejiang Electric Power Company
+
+T32.  Mar. 2019, State Grid Jiangsu Electric Power Company
 
 T31.  Feb. 2019, Wayne State University, Detroit
 
