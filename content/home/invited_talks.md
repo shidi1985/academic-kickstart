@@ -20,7 +20,7 @@ T38.  Apr. 2019, University of Tennessee, Knoxville
 
 T37.  Apr. 2019, NASPI Spring Working Group Meeting, San Diego
 
-T36.  Apr. 2019, University of Neveda, Reno
+T36.  Apr. 2019, University of Neveda (IEEE Section of Northern Neveda/IEEE IAS UNR Student Chapter)
 
 T35.  Mar. 2019, State Grid Jiangsu Electric Power Research Institute, Nanjing
 
