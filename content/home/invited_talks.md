@@ -14,6 +14,8 @@ subtitle = ""
 weight = 24
 
 +++
+T40.  June 2019, IEEE PES SF Chapter, San Ramon
+
 T39.  May 2019, Stanford University, Palo Alto
 
 T38.  Apr. 2019, University of Tennessee, Knoxville
