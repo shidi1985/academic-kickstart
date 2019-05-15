@@ -14,7 +14,11 @@ subtitle = ""
 weight = 24
 
 +++
-T40.  June 2019, IEEE PES SF Chapter, San Ramon
+T42.  June 2019, IEEE PES SF Chapter, San Ramon
+
+T41.  May 2019, PSERC at University of Wisconsin, Madison 
+
+T40.  May 2019, Tsinghua University, Beijing
 
 T39.  May 2019, Stanford University, Palo Alto
 
