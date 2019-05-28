@@ -41,7 +41,7 @@ projects = ["MG"]
 tags = ["MG","Power sharing"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://www.geirina.net/assets/paper/Accurate%20Power%20Sharing%20and%20Synthetic%20Inertia%20Control%20for%20DC.pdf"
 #url_preprint = "https://www.geirina.net/assets/paper/Accurate%20Power%20Sharing%20and%20Synthetic%20Inertia%20Control%20for%20DC.pdf"
 #url_code = "#"
 #url_dataset = "#"
