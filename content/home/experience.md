@@ -62,7 +62,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2015-10-02"
   date_end = ""
-  description = """ Lead a team of researchers to develop innovative technologies and solutions for power systems in the areas of PMU data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
+  description = """ Lead the AI & System Analytics Group in developing innovative technologies and solutions for power systems in the areas of PMU data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
  
 
 
