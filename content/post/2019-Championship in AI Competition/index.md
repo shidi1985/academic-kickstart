@@ -1,6 +1,6 @@
 +++
 title = "GEIRINA Wins Championship in AI Competition."
-date = 2019-07-01T00:00:00
+date = 2019-06-28T00:00:00
 
 # List format.
 #   0 = Simple
