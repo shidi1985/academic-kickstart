@@ -23,7 +23,7 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-My team won the championship in worldwide AI competition, Learning to Run a Power Network (L2RPN), hosted by RTE, a French power transmission company, and ChaLearn, RTE's partner. The core technologies used by the GEIRINA team in this competition are research outcomes of the ongoing Grid Mind project, including imitation learning and deep reinforcement learning. Winning the competition sets a clear milestone for the AI & System Analytics group in applying state-of-the-art AI technologies for autonomous dispatch & control of the grid. 
+My team won the championship in AI competition, Learning to Run a Power Network (L2RPN), which is open to researchers worldwide. This competition is hosted by RTE, a French power transmission company, and ChaLearn, RTE's partner. In fact, my team was ranked the 1st both in the development and final phases, results of which are tested based on secret data sets. The core technologies used by the GEIRINA team in this competition are research outcomes of the ongoing Grid Mind project, including imitation learning and deep reinforcement learning. Winning the competition sets a clear milestone for the AI & System Analytics group in applying state-of-the-art AI technologies for autonomous dispatch & control of the grid. 
 
 Details of the competition can be found at: 
 https://competitions.codalab.org/competitions/22845#results
