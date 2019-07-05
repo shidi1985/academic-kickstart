@@ -14,6 +14,8 @@ subtitle = ""
 weight = 23
 
 +++
+2019 Championship, AI Competition Hosted by RTE "Learning to Run a Power Network"
+
 2019  Best Paper Award, IEEE PES General Meeting 2019
 
 2018  Outstanding Researcher Award, GEIRI North America
