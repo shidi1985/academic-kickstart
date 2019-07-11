@@ -14,7 +14,7 @@ subtitle = ""
 weight = 23
 
 +++
-2019 Championship, Worldwide AI Competition Hosted by RTE "Learning to Run a Power Network"
+2019 Championship, Worldwide AI Competition Hosted by RTE "Learning to Run a Power Network (L2RPN)"
 
 2019  Best Paper Award, IEEE PES General Meeting 2019
 
