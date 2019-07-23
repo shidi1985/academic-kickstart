@@ -14,6 +14,14 @@ subtitle = ""
 weight = 24
 
 +++
+T46.  Sept. 2019, University of Houston, Houston
+
+T45.  Aug. 2019, IEEE PES Nanjing Chapter, Nanjing
+
+T44.  Aug. 2019, NARI Zijin Forum, Nanjing
+
+T43.  June 2019, 	Technical Conference regarding Increasing Real-Time and Day-Ahead Market Efficiency and Planning Efficiency and Enhancing Resilience through Improved Software, FERC, Washington DC
+
 T42.  June 2019, IEEE PES SF Chapter, San Ramon
 
 T41.  May 2019, PSERC at University of Wisconsin, Madison 
