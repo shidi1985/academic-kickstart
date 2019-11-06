@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Title of the paper is "Data Mining based Approach for Online Calibration of Phasor Measurement Unit (PMU)" with patent application no. US 15/787,365.
+Title of the invention is "Data Mining based Approach for Online Calibration of Phasor Measurement Unit (PMU)" with US patent application no. US20180156886.
