@@ -14,6 +14,14 @@ subtitle = ""
 weight = 24
 
 +++
+T50.  Dec. 2019, IEEE PES SF Chapter, San Francisco
+
+T48.  Dec. 2019, IEEE Symposium Series on Computational Intelligence (SSCI 2019), Xiamen 
+
+T48.  Nov. 2019, IEEE Sustainable Power and Energy Conference (iSPEC), Beijing
+
+T47.  Oct. 2019, Beijing Jiaotong University, Beijing 
+
 T46.  Sept. 2019, University of Houston, Houston
 
 T45.  Aug. 2019, IEEE PES Nanjing Chapter, Nanjing
