@@ -14,6 +14,8 @@ subtitle = ""
 weight = 23
 
 +++
+2019 Two Best Paper Awards, IEEE Sustainable Power and Energy Conference (iSPEC)
+
 2019 Championship, Worldwide AI Competition Hosted by RTE France "Learning to Run a Power Network (L2RPN)"
 
 2019  Best Paper Award, IEEE PES General Meeting 2019
