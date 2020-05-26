@@ -1,6 +1,6 @@
 +++
-title = "Paper on Global Sensitivity Analysis for Load Modeling is accepted by IEEE TSG."
-date = 2020-03-01T00:00:00
+title = "Paper on WECC Load Modeling using Deep Reinforcement Learning is accepted by IEEE TSG."
+date = 2020-03-05T00:00:00
 
 # List format.
 #   0 = Simple
@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our paper "Global Sensitivity Analysis in Load Modeling via Low-rank Tensor" is accepted by IEEE Transactions on Smart Grid. Get a preprint here: https://geirina.net/assets/paper/Global_Sensitivity_Analysis_in_Load_Modeling_via_Low_rank_Tensor.pdf
+Our paper "Two-stage WECC Composite Load Modeling: A Double Deep Q-Learning Networks Approach" is accepted by IEEE Transactions on Smart Grid. Get a preprint here: https://geirina.net/assets/paper/Two-stage%20WECC%20Composite%20Load%20Modeling.pdf
