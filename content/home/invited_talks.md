@@ -14,6 +14,10 @@ subtitle = ""
 weight = 24
 
 +++
+T52. May 2019, CURENT Strategic Planning Meeting
+
+T51.  Apr. 2020, School of Electrical Engineering, Xi'an Jiaotong University 
+
 T50.  Dec. 2019, IEEE PES SF Chapter, San Francisco
 
 T48.  Dec. 2019, IEEE Symposium Series on Computational Intelligence (SSCI 2019), Xiamen 
