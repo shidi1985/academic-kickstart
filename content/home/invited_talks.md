@@ -14,7 +14,11 @@ subtitle = ""
 weight = 24
 
 +++
-T52. May 2019, CURENT Strategic Planning Meeting
+T54.  June 2020, Beijing Jiaotong University, "Applications of AI in Power System Optimization and Control"
+
+T53.  May 2020, IEEE Asia Energy and Electrical Engineering Symposium, "The Evolving Electric Power Grid-IoT, Energy Internet and AI"
+
+T52.  May 2020, CURENT Strategic Planning Meeting, "The Evolving Electric Power Grid with IoT, Energy Internet and AI"
 
 T51.  Apr. 2020, School of Electrical Engineering, Xi'an Jiaotong University 
 
