@@ -1,6 +1,6 @@
 +++
 title = "One paper from my group has been chosen as Best Paper by IEEE PES General Meeting 2020."
-date = 2019-05-10T00:00:00
+date = 2020-06-18T00:00:00
 
 # List format.
 #   0 = Simple
