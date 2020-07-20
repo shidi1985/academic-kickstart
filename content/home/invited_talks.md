@@ -14,9 +14,11 @@ subtitle = ""
 weight = 24
 
 +++
+T55.  Aug. 2020, the 5th Zijin Forum, NARI Group
+
 T54.  June 2020, Beijing Jiaotong University, "Applications of AI in Power System Optimization and Control"
 
-T53.  May 2020, IEEE Asia Energy and Electrical Engineering Symposium, "The Evolving Electric Power Grid-IoT, Energy Internet and AI"
+T53.  May 2020, Keynote, IEEE Asia Energy and Electrical Engineering Symposium, "The Evolving Electric Power Grid-IoT, Energy Internet and AI"
 
 T52.  May 2020, CURENT Strategic Planning Meeting, "The Evolving Electric Power Grid with IoT, Energy Internet and AI"
 
@@ -90,7 +92,7 @@ T18.	Oct. 2017, Iowa State University
 
 T17.	Oct. 2017, State Grid Jiangsu Electric Power Company
 
-T16.	Sept. 2017, North American Power Symposium (NAPS) Keynote
+T16.	Sept. 2017, Keynote, North American Power Symposium (NAPS) 
 
 T15.	Aug. 2017, Workshop on HVDC Transmission Technology, Mexico City
 
