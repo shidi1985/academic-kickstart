@@ -14,7 +14,7 @@ subtitle = ""
 weight = 24
 
 +++
-T55.  Aug. 2020, the 5th Zijin Forum, NARI Group
+T55.  Aug. 2020, the 5th Zijin Forum, NARI Group, "An AI-to-Grid Story: Grid Mind Development and Demonstration"
 
 T54.  June 2020, Beijing Jiaotong University, "Applications of AI in Power System Optimization and Control"
 
