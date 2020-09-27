@@ -1,6 +1,6 @@
 +++
 title = "Successful Completion of 2020 WCCI L2RPN AI Competion."
-date = 2019-06-28T00:00:00
+date = 2020-08-01T00:00:00
 
 # List format.
 #   0 = Simple
