@@ -1,5 +1,5 @@
 +++
-title = "Paper on Forced Oscillation Source Location is accepted by IEEE Trans. Power Systems."
+title = "Paper on Forced Oscillation Source Location is accepted by IEEE Trans. Smart Grid."
 date = 2020-10-03T00:00:00
 
 # List format.
