@@ -1,5 +1,5 @@
 +++
-title = "Paper on Blockchain-enabled Multi-Settlement Quasi-Ideal Peer-to-Peer Trading Framework is accepted by IEEE Trans. Power Systems."
+title = "Paper on Blockchain-enabled Multi-Settlement Quasi-Ideal Peer-to-Peer Trading Framework is accepted by IEEE Trans. Smart Grid."
 date = 2020-09-25T00:00:00
 
 # List format.
