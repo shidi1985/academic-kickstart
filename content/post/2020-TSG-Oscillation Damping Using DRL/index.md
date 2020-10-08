@@ -1,0 +1,26 @@
++++
+title = "Paper on Wide-area Damping Control through Reinforcement Learning is accepted by IEEE Trans. Smart Grid."
+date = 2020-09-05T00:00:00
+
+# List format.
+#   0 = Simple
+#   1 = Detailed
+#   2 = Stream
+list_format = 0
+
+# Optional featured image (relative to `static/img/` folder).
+#[header]
+
+#image = ""
+#caption = ""
+
+[image]
+  # Caption (optional)
+  caption = ""
+  
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Smart"
+
++++
+Our paper "Wide-area Measurement System-based Low Frequency Oscillation Damping Control through Reinforcement Learning" is accepted by IEEE Transactions on Smart Grid. Get the preprint from here: https://geirina.net/assets/paper/Time%20Series%20Classification%20for%20Locating%20Forced%20Oscillation%20Sources.pdf
