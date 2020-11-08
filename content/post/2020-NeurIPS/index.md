@@ -1,6 +1,6 @@
 +++
 title = "Two papers on Applications of AI to Power Systems have been accepted by top AI & ML conference NeurIPS 2020."
-date = 2020-11-6T00:00:00
+date = 2020-11-06T00:00:00
 
 # List format.
 #   0 = Simple
@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our papers "Rethink AI-based Power Grid Control: Diving Into Algorithm Design" and "On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control" are accepted by 2020 Conference on Neural Information Processing Systems (formly NIPS).
+Our papers "Rethink AI-based Power Grid Control: Diving Into Algorithm Design" and "On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control" are both accepted by 2020 Conference on Neural Information Processing Systems (formly NIPS).
