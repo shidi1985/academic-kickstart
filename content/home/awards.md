@@ -14,6 +14,10 @@ subtitle = ""
 weight = 23
 
 +++
+2020 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2019
+
+2020 Best Paper Award, 2020 IEEE PES General Meeting
+
 2019 Two Best Paper Awards, IEEE Sustainable Power and Energy Conference (iSPEC)
 
 2019 Championship, Worldwide AI Competition Hosted by RTE France "Learning to Run a Power Network (L2RPN)"
