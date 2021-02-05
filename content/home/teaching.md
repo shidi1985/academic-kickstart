@@ -40,11 +40,11 @@ weight = 21
 
 [PENDING: 27]
 
-12.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
+-12.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 
-13.	X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent Application No. 16,108,188.
+-13.	X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent Application No. 16,108,188.
 
-14.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
+-14.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
 
 15.	J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System based on Reinforcement Learning,” US Patent Application. No. 62,739,465.
 
