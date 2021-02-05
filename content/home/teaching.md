@@ -15,17 +15,29 @@ weight = 21
 
 +++
 [GRANTED: 11]
+
 1.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids Patent Number”, US Patent 10,651,654.
+
 2.	Z. Yi, H. Li, Z. Wang, R. Diao, X. Zhao, and D. Shi, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent 10,770,904.
+
 3.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
+
 4.	D. He, D. Shi, and R. Sharma, “Consensus-based Distributed Cooperative Control for Microgrid Voltage Regulation and Reactive Power Sharing,” US Patent 9,882,386.
+
 5.	D. Shi, and R. Sharma, “Enhancing Power System Voltage Stability Using Grid Energy Storage for Voltage Support,” US Patent 9,866,029.
+
 6.	J. Zhao, D. Shi, and R. Sharma, “Microgrid Reactive Power Management for Voltage Regulation During and Subsequent to Islanding,” US Patent 9,812,870.
+
 7.	D. Shi, R. Sharma, and Y. Luo, “Synchronization Control for Reconnecting Microgrid to Main Grid After Islanding,” US Patent 9,720,395.
+
 8.	Y. Ye, R. Sharma, and D. Shi, “Adaptive Control of Hybrid Ultracapacitor-battery Storage System for Photovoltaic Output Smoothing,” US Patent 9,536,205.
+
 9.	D. Shi, R. Sharma, and Y. Ye, “Distributed Generation Control for Microgrid During Islanding,” US Patent 9,411,389.
+
 10.	R. Sharma, D. Shi, B. Asghari, and R. Patil, “Management of Grid Scale Energy Storage System for Multiple Services,” US Patent 10,205,317.
+
 11.	X. Lu, X. Wang, D. Shi, Z. Wang, “Data Mining based Approach for Online Calibration of Phasor Measurement Unit,” US Patent 15,787,365.
+
 [PENDING: 27]
 12.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 13.	X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent Application No. 16,108,188.
