@@ -56,7 +56,7 @@ date_format = "January 2006"
   description = """ Lead multiple R&D projects in areas of microgrids, energy storage, renewable integration, and hardware testbed development. """
  
 [[experience]]
-  title = "Department Head/Principal Engineer"
+  title = "Director/Department Head/Principal Engineer"
   company = "GEIRI North America (GEIRINA)"
   company_url = "http://www.geirina.net"
   location = "California"
