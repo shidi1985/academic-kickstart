@@ -24,7 +24,6 @@ list_format = 0
 
 +++
 
+Working between academia and industry has given me unique insights on what is needed by the energy industry. It's been one of my career goal and now is the time to start this exicting journey.
 
-
-
-The AINERGY group provides innovative solutions and services to address the challenges power systems face which are introduced by disruptive changes happening at the edge. My team specialize in AI, IoT, edge computing, and advanced data analytics. We leverage state-of-the-art ICT technologies to solve system-level problems and provide Software-as-a-Service (SaaS) to our clients. Our team is formed by talented researchers and engineers from multiple disciplines, including power engineering, operations research, software engineering, and communications. Our deployed products have been raising the IQ of smart grids for years with a proven track record of effectiveness.
+AInergy provides innovative solutions and services to address the challenges power systems face which are introduced by disruptive changes happening at the edge. Our deployed products have been raising the IQ of smart grids for years with a proven track record of effectiveness. Check ainergys.com for more info.
