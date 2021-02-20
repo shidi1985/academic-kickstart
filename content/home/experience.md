@@ -64,6 +64,13 @@ date_format = "January 2006"
   date_end = "2020-12-23"
   description = """Led and coordinated across multiple research groups on project planning, management, and business development. Led the AI & System Analytics Group in developing innovative technologies and solutions for power systems in the areas of data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
  
-
+[[experience]]
+  title = "Founder"
+  company = "AINERGY, LLC"
+  company_url = "https://ainergys.com"
+  location = "California"
+  date_start = "2021-01-01"
+  date_end = ""
+  description = """AINERGY focuses on artificial intelligence technologies for energy. The AINERGY group conduct cutting-edge R&D and provide AI and IoT driven solutions that help the power grid run more efficiently and reliably.."""
 
 +++
