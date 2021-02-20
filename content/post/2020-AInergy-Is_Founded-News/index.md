@@ -24,6 +24,6 @@ list_format = 0
 
 +++
 
-Working between academia and industry has given me unique insights on what can be done and what is needed. It's been one of my career goal and now is the time.
+Working between academia and industry has given me unique insights on what can be done and what is needed. It's been one of my career goals and now is the time...
 
 AInergy provides innovative solutions and services to address the challenges introduced by disruptive changes happening at the edge of power systems. Our deployed solutions have been raising the IQ of smart grids for years with a proven track record of effectiveness. Check ainergys.com for more info.
