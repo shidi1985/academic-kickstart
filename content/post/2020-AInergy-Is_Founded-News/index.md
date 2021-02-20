@@ -1,5 +1,5 @@
 +++
-title = "AInergy is founded and officially starts operation from the beginning of January."
+title = "AInergy is founded and officially starts operation."
 date = 2021-01-01T00:00:00
 
 # List format.
@@ -24,6 +24,6 @@ list_format = 0
 
 +++
 
-Working between academia and industry has given me unique insights on what is needed by the energy industry. It's been one of my career goal and now is the time to start this exicting journey.
+Working between academia and industry has given me unique insights on what can be done and what is needed. It's been one of my career goal and now is the time.
 
-AInergy provides innovative solutions and services to address the challenges power systems face which are introduced by disruptive changes happening at the edge. Our deployed products have been raising the IQ of smart grids for years with a proven track record of effectiveness. Check ainergys.com for more info.
+AInergy provides innovative solutions and services to address the challenges introduced by disruptive changes happening at the edge of power systems. Our deployed solutions have been raising the IQ of smart grids for years with a proven track record of effectiveness. Check ainergys.com for more info.
