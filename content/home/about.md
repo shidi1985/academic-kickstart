@@ -36,7 +36,7 @@ weight = 3
 +++
 
 # 
-Dr. Di Shi is the Founder and CEO of AINERGY, whose mission is to address challenges the electric power systems face via AI, IoT, and advanced data analytics.
+Dr. Di Shi is the Founder of AINERGY, whose mission is to address challenges the electric power systems face via AI, IoT, and advanced data analytics.
 
 Dr. Shi serves as Editor of IEEE Transactions on Smart Grid, Editor of IEEE Power Engineering Letters, Chair of IEEE San Francisco Section Chapter PES, and the Vice Chair of the System Stem at Power System Engineering Research Center (PSERC). Prior to joining GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
 
