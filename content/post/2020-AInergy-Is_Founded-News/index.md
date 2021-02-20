@@ -1,5 +1,5 @@
 +++
-title = "AInergy is founded and officially starts operation."
+title = "AInergy is founded and starts operation."
 date = 2021-01-01T00:00:00
 
 # List format.
