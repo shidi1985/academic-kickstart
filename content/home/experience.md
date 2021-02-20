@@ -71,6 +71,6 @@ date_format = "January 2006"
   location = "California"
   date_start = "2021-01-01"
   date_end = ""
-  description = """AINERGY focuses on artificial intelligence technologies for energy. AINERGY provides AI and IoT driven solutions to help the power grid run more efficiently and reliably.."""
+  description = """AINERGY focuses on artificial intelligence technologies for energy. AINERGY provides AI and IoT driven solutions to help the power grid run more efficiently and reliably."""
 
 +++
