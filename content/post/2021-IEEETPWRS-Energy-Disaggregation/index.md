@@ -1,5 +1,5 @@
 +++
-title = "Real-time Energy Disaggregation at Substations with Behind-the-Meter Solar Generation."
+title = "Paper on Real-time Energy Disaggregation at Substations with Behind-the-Meter Solar Generation is accepted by IEEE Trans. Power Systems."
 date = 2020-11-20T00:00:00
 
 # List format.
