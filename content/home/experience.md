@@ -44,7 +44,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2011-06-06"
   date_end = "2011-08-25"
-  description = """ Conduct research in PMU data visualization, measurement based voltage stability assessment, and software development. """
+  description = """ Conducted research in PMU data visualization, measurement based voltage stability assessment, and software development. """
  
 [[experience]]
   title = "Research Staff Member"
@@ -53,12 +53,12 @@ date_format = "January 2006"
   location = "California"
   date_start = "2012-06-11"
   date_end = "2015-10-01"
-  description = """ Lead multiple R&D projects in areas of microgrids, energy storage, renewable integration, and hardware testbed development. """
+  description = """ Led multiple R&D projects in areas of microgrids, energy storage, renewable integration, and hardware testbed development. """
  
 [[experience]]
   title = "Director/Department Head/Principal Engineer"
   company = "GEIRI North America (GEIRINA)"
-  company_url = "http://www.geirina.net"
+  company_url = ""
   location = "California"
   date_start = "2015-10-02"
   date_end = "2020-12-23"
