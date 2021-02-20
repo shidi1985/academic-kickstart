@@ -24,6 +24,6 @@ list_format = 0
 
 +++
 
-Working between academia and industry has given me unique insights on what can be done and what is needed. It's been one of my career goals and now is the time...
+Working in industry labs has given me unique insights on where the gap is--what can be done and what is needed. It's been one of my career goals and now is the time...
 
 AInergy provides innovative solutions and services (AI, IoT, edge computing, and data analytics) to address challenges introduced by disruptive changes happening at the edge of power systems. Our deployed solutions have been raising the IQ of smart grids for years with a proven track record of effectiveness. Check ainergys.com for more info.
