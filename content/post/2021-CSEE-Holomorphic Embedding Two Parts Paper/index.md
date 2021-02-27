@@ -24,3 +24,8 @@ list_format = 0
 
 +++
 In this two-part paper, we examine in more detail the implications of Stahl’s theorems to both theoretical and numerical convergence for a wider range of problems to which these theorems are now being applied. We show that the difference between Stahl’s extremal domain and the function’s domain is responsible for theoretical nonconvergence and that the fundamental cause of numerical nonconvergence is the magnitude of logarithmic capacity of the branch cut, a concept central to understanding convergence.
+
+“Implications of Stahl’s Theorems to Holomorphic Embedding Pt. I: Theoretical Convergence,” CSEE Journal of Power and Energy Systems, 2021.
+
+“Implications of Stahl’s Theorems to Holomorphic Embedding Pt. II: Numerical Convergence,” CSEE Journal of Power and Energy Systems, 2021.
+
