@@ -1,6 +1,6 @@
 +++
 title = "Our Two-part Paper on Holomorphic Embedding regarding Theoretical and Numerical Convergence has been accepted by CSEE Journal of Power and Energy Systems."
-date = 2020-02-22T00:00:00
+date = 2021-02-22T00:00:00
 
 # List format.
 #   0 = Simple
