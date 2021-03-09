@@ -14,6 +14,7 @@ subtitle = ""
 weight = 23
 
 +++
+2021 IEEE PES Outstanding Engineer Award, San Francisco Power and Energy Chapter "for years of dedicated service to the Chapter and for valuable contributions to the electric power industry
 
 2020 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2019
 
