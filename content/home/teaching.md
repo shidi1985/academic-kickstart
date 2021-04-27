@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 15]
+[GRANTED: 16]
 
 P1.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids Patent Number”, US Patent 10,651,654.
 
@@ -46,16 +46,15 @@ P14.D. Shi, X. Lu, X. Chen, etc., “Method and Device for Online Calibration of
 
 P15.D. Shi, Y. Xiang, D. Bian, G. Zhao, etc., “Method and System for Control of Energy Block for Flexible Load”, Chinese Patent CN109768555.
 
+P16.J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System based on Reinforcement Learning,” US Patent 10,985,572.
 
-[PENDING: 27]
+[PENDING: 26]
 
-P16.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
+P17.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 
-P17.	X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent Application No. 16,108,188.
+P18.	X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent Application No. 16,108,188.
 
-P18.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
-
-P19.	J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System based on Reinforcement Learning,” US Patent Application. No. 62,739,465.
+P19.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
 
 P20.	Z. Yu, Y. Wang, H. Li, C. Fu, Z. W, and D. Shi, “An Approach of Parameter Estimation for Composite Load Based on Bayesian Estimation,” US Patent Application No: 62,756,387.
 
