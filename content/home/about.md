@@ -38,7 +38,7 @@ weight = 3
 # 
 Dr. Di Shi is the Founder of AInergy, a startup providing AI and IoT driven solutions and services for the energy industry.
 
-Dr. Shi serves as Editor of IEEE Transactions on Smart Grid, Editor of IEEE Power Engineering Letters, Chair of IEEE San Francisco Section Chapter PES, and the Vice Chair of the System Stem at Power System Engineering Research Center (PSERC). He also serves as Chair of IEEE TF of IoT for Power Systems, and Secretary of IEEE TF of Machine Learning for Power Systems.
+Dr. Shi serves as Editor of IEEE Transactions on Smart Grid, Editor of IEEE Power Engineering Letters, and Chair of IEEE San Francisco Section Chapter PES. He also serves as Chair of IEEE TF of IoT for Power Systems, and Secretary of IEEE TF of Machine Learning for Power Systems.
 
 Prior to AInergy, Dr. Shi was Director of Fundamental R&D Center and Department Head of the AI & System Analytics Group at GEIRI North America (GEIRINA). Prior to joining GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
 
