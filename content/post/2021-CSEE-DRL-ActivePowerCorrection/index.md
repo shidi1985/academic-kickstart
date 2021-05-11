@@ -1,6 +1,6 @@
 +++
-title = "Our two-part paper on Active Power Correction Strategies based on Deep Reinforcement Learning" are accepted by CSEE JPES."
-date = 2021-04-20T00:00:00
+title = "Our Two-part Paper on Active Power Correction Strategies Based on Deep Reinforcement Learning has been accepted by CSEE JPES"
+date = 2021-02-22T00:00:00
 
 # List format.
 #   0 = Simple
@@ -23,4 +23,7 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our two-part paper "Active Power Correction Strategies based on Deep Reinforcement Learning, Part I: A distributed solution for adaptability, Part II: A simulation-driven solution for robustness" is accepted by CSEE Journal of Power and Energy Systems. This is joint work of my team and a research team from Wuhan University, resulted from our participation in the power system AI competition L2RPN NeurIPS (both tracks) 2020.
+In this two-part paper, we presents a simulation-driven graph attention reinforcement learning (SGA-RL) method to perform robust active power corrective control, as well as a multi-agent approach to address challenges brought in by increasing renewable penetrations. 
+
+Active Power Correction Strategies Based on Deep Reinforcement Learning——Part I: A Simulation-driven Solution for Robustness 
+Active Power Correction Strategies Based on Deep Reinforcement Learning——Part II: A Distributed Solution for Adaptability
