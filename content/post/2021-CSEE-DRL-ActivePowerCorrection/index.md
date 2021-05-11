@@ -1,5 +1,5 @@
 +++
-title = "Our Two-part Paper on Active Power Correction Strategies Based on Deep Reinforcement Learning has been accepted by CSEE JPES"
+title = "Our Two-part Paper on Active Power Correction Strategies Based on Deep Reinforcement Learning has been accepted by CSEE Journal of Power and Energy Systems"
 date = 2021-02-22T00:00:00
 
 # List format.
