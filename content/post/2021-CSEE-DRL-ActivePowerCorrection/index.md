@@ -1,6 +1,6 @@
 +++
 title = Our two-part paper on "Active Power Correction Strategies based on Deep Reinforcement Learning" are accepted by CSEE JPES."
-date = 2021-02-20T00:00:00
+date = 2021-04-20T00:00:00
 
 # List format.
 #   0 = Simple
