@@ -48,7 +48,7 @@ P15.D. Shi, Y. Xiang, D. Bian, G. Zhao, etc., “Method and System for Control o
 
 P16.J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System based on Reinforcement Learning,” US Patent 10,985,572.
 
-P17.X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent Application 11,029,344.
+P17.X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent 11,029,344.
 
 [PENDING: 25]
 
