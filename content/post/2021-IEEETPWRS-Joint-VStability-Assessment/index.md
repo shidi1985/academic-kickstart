@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Paper "Data-Driven Joint Voltage Stability Assessment Considering Load Uncertainty: A Variational Bayes Inference Integrated with Multi-CNNs" is accepted by IEEE Transactions on Power Systems. This paper proposes approach to combine multiple convolutional neural networks (multi-CNNs) to assess the transient and steady-state voltage stability of power systems.
+Paper "Data-Driven Joint Voltage Stability Assessment Considering Load Uncertainty: A Variational Bayes Inference Integrated with Multi-CNNs" is accepted by IEEE Transactions on Power Systems. This paper proposes an approach to combine multiple convolutional neural networks (multi-CNNs) to assess the transient and steady-state voltage stability of power systems.
