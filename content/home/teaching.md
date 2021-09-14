@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 17]
+[GRANTED: 18]
 
 P1.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids Patent Number”, US Patent 10,651,654.
 
@@ -52,7 +52,7 @@ P17.X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Volta
 
 P18.	X. Lu, D. Shi, Y. Xiang, H. Li, C. Xu, etc., “Smart outlet system with fast frequency tracking for power system frequency control using distributed appliances,” US Patent 11,114,893.
 
-[PENDING: 25]
+[PENDING: 24]
 
 P19.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 
