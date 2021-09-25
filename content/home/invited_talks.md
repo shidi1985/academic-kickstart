@@ -14,6 +14,10 @@ subtitle = ""
 weight = 24
 
 +++
+T57. June 2021, Hohai University, "Applications of AI in Power System Control and Optimization"
+
+T56. May 2021, Xi'an Jiaotong University, "Applications of AI in Power System Control and Optimization"
+
 T55.  Aug. 2020, the 5th Zijin Forum, NARI Group, "An AI-to-Grid Story: Grid Mind Development and Demonstration"
 
 T54.  June 2020, Beijing Jiaotong University, "Applications of AI in Power System Optimization and Control"
