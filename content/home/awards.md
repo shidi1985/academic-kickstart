@@ -14,6 +14,8 @@ subtitle = ""
 weight = 23
 
 +++
+2021 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2020
+
 2021 IEEE PES Outstanding Engineer Award, San Francisco Power and Energy Chapter
 
 2020 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2019
