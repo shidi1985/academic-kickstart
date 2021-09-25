@@ -15,28 +15,52 @@ weight = 23
 
 +++
 2021 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2020
+
 2021 IEEE PES Outstanding Engineer Award, San Francisco Power and Energy Chapter
+
 2020 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2019
+
 2020 Best Paper Award, 2020 IEEE PES General Meeting
+
 2019 Two Best Paper Awards, IEEE Sustainable Power and Energy Conference (iSPEC)
+
 2019 Championship, International AI Competition Hosted by RTE France "Learning to Run a Power Network (L2RPN)"
+
 2019 Best Track Paper Award, IEEE APPEEC 2019
+
 2019  Best Paper Award, IEEE PES General Meeting 2019
+
 2018  Outstanding Researcher Award, GEIRI North America
+
 2017	Researcher of the Year, GEIRI North America
+
 2017	Best Paper Award, IEEE PES General Meeting 2017
+
 2016	Outstanding Performance Award, GEIRI North America
+
 2016	President Award, GEIRI North America
+
 2015	Best Reviewer, IEEE Transactions on Smart Grid
+
 2014	NEC Labs Technology Commercialization Award
+
 2014	NEC Spot Recognition Award for “Contribution in Bringing NECLA Grid Scale ESS Expertise”
+
 2013	NEC Spot Recognition Award for “Success of Proof-of-Concept Project at MPI Indonesia”
+
 2013	NEC Spot Recognition Award for “Success of Proof-of-Concept Project at Celcom Maylasia”
+
 2012  University Graduate Fellowship, Arizona State University
+
 2011  DEED Scholarship ($4,000 Research Fund), American Public Power Association
+
 2009	University Graduate Fellowship, Arizona State University
+
 2007	Champion of Asia-Pacific Robot Contest 2007 (representing China)
+
 2007	Champion of China Domestic Contest for Robocon 2007
+
 2007	Outstanding Graduate of Shaan Xi Province (top 1%)
+
 2004-2007	A total of five Scholarships from XJTU (all for top 1%)
 (TangWenZhi Scholarship, BMW Scholarship, ZhongJiaoTongLi Scholarship, SiYuan Scholarship 1st Prize, Freshman Scholarship 1st Prize) 
