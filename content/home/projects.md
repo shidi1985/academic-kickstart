@@ -5,7 +5,7 @@ active = true
 date = 2016-04-20T00:00:00
 
 title = "Publications"
-#subtitle = "Please check here for more information: https://ainergys.com"
+subtitle = "Google scholar: https://scholar.google.com/citations?user=3gfrp9EAAAAJ&hl=en&oi=ao"
 
 # Order that this section will appear in.
 weight = 50
