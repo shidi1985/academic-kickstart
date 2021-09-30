@@ -222,9 +222,9 @@ filter_default = 0
 
 [Conference Papers]
 
-[C80] H. Li, Y. Xiang, T. Jin, S. Wang, Z. Yi, and D. Shi, “A DRL-Based Approach for System Frequency Response Model Calibration,” 52nd North American Power Symposium (NAPS), 2021
+[C80] H. Li, Y. Xiang, T. Jin, S. Wang, Z. Yi, and D. Shi, “A DRL-Based Approach for System Frequency Response Model Calibration,” 52nd North American Power Symposium (NAPS), 2021.
 
-[C79] Z. Liang, D. Bian, C. Xu, X. Zhang, D. Shi, and Z. Wang, “Deep Reinforcement Learning based Energy Management Strategy for Commercial Building Considering Comprehensive Comfort Levels,” 52nd North American Power Symposium (NAPS), 2021
+[C79] Z. Liang, D. Bian, C. Xu, X. Zhang, D. Shi, and Z. Wang, “Deep Reinforcement Learning based Energy Management Strategy for Commercial Building Considering Comprehensive Comfort Levels,” 52nd North American Power Symposium (NAPS), 2021.
 
 [C78] R. Diao, D. Shi, B. Zhang, S. Wang, H. Li, C. Xu, etc., “On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control,” NeurIPS 2020.
 
