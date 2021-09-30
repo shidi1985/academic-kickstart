@@ -52,6 +52,7 @@ filter_default = 0
 [Journal Papers]
 
 [J] M. Kamruzzaman, J. Duan, D. Shi, and M. Benidris, “A Deep Reinforcement Learning-based Multi-agent Framework to Enhance Power System Resilience using Shunt Resources,” IEEE Transactions on Power Systems, 2021. 
+
 [J2] M. Kamruzzaman, X. Zhang, M. Abdelmalak, D. Shi, and M. Benidris, “A Data-driven Accurate Battery Model to Use in Probabilistic Analysis of Power Systems,” Journal of Energy Storage, 2021.
 
 [J3] Y. Zhou, W. Lee, R. Diao, and D. Shi, “Deep Reinforcement Learning Based Real-time AC Optimal Power Flow Considering Uncertainties,” Journal of Modern Power Systems and Clean Energy, 2021.
