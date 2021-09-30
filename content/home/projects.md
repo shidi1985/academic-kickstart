@@ -51,8 +51,7 @@ filter_default = 0
 +++
 [Journal Papers]
 
-[J1] M. Kamruzzaman, J. Duan, D. Shi, and M. Benidris, “A Deep Reinforcement Learning-based Multi-agent Framework to Enhance Power System Resilience using Shunt Resources,” IEEE Transactions on Power Systems, 2021. 
-
+[J] M. Kamruzzaman, J. Duan, D. Shi, and M. Benidris, “A Deep Reinforcement Learning-based Multi-agent Framework to Enhance Power System Resilience using Shunt Resources,” IEEE Transactions on Power Systems, 2021. 
 [J2] M. Kamruzzaman, X. Zhang, M. Abdelmalak, D. Shi, and M. Benidris, “A Data-driven Accurate Battery Model to Use in Probabilistic Analysis of Power Systems,” Journal of Energy Storage, 2021.
 
 [J3] Y. Zhou, W. Lee, R. Diao, and D. Shi, “Deep Reinforcement Learning Based Real-time AC Optimal Power Flow Considering Uncertainties,” Journal of Modern Power Systems and Clean Energy, 2021.
@@ -218,6 +217,7 @@ filter_default = 0
 [J83] D. Shi, D. J. Tylavsky and N. Logic, “An Adaptive Method for Detection and Correction of Errors in PMU Measurements,” IEEE Trans. on Smart Grid, vol. 3, no. 4, Dec. 2012.
 
 [J84] D. Shi, D. J. Tylavsky, K. M. Koellner, N. Logic and D. E. Wheeler, “Transmission Line Parameter Identification using PMU Measurements,” Euro. Trans. Electr. Power, vol. 21, no. 4, pp. 1574-1588, Nov. 2010.
+
 
 [Conference Papers]
 
