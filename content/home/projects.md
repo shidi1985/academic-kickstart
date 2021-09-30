@@ -49,6 +49,8 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
+[Journal Papers]
+
 [J1] M. Kamruzzaman, J. Duan, D. Shi, and M. Benidris, “A Deep Reinforcement Learning-based Multi-agent Framework to Enhance Power System Resilience using Shunt Resources,” IEEE Transactions on Power Systems, 2021. 
 
 [J2] M. Kamruzzaman, X. Zhang, M. Abdelmalak, D. Shi, and M. Benidris, “A Data-driven Accurate Battery Model to Use in Probabilistic Analysis of Power Systems,” Journal of Energy Storage, 2021.
@@ -216,3 +218,167 @@ filter_default = 0
 [J83] D. Shi, D. J. Tylavsky and N. Logic, “An Adaptive Method for Detection and Correction of Errors in PMU Measurements,” IEEE Trans. on Smart Grid, vol. 3, no. 4, Dec. 2012.
 
 [J84] D. Shi, D. J. Tylavsky, K. M. Koellner, N. Logic and D. E. Wheeler, “Transmission Line Parameter Identification using PMU Measurements,” Euro. Trans. Electr. Power, vol. 21, no. 4, pp. 1574-1588, Nov. 2010.
+
+[Conference Papers]
+
+[C1] H. Li, Y. Xiang, T. Jin, S. Wang, Z. Yi, and D. Shi, “A DRL-Based Approach for System Frequency Response Model Calibration,” 52nd North American Power Symposium (NAPS), 2021
+
+[C2] Z. Liang, D. Bian, C. Xu, X. Zhang, D. Shi, and Z. Wang, “Deep Reinforcement Learning based Energy Management Strategy for Commercial Building Considering Comprehensive Comfort Levels,” 52nd North American Power Symposium (NAPS), 2021
+
+[C3] R. Diao, D. Shi, B. Zhang, S. Wang, H. Li, C. Xu, etc., “On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control,” NeurIPS 2020.
+
+[C4] X. Zhou, S. Wang, R. Diao, D. Bian, J. Duan, D. Shi, etc., “Rethink AI-based Power Grid Control: Diving Into Algorithm Design,” NeurIPS 2020.
+
+[C5] Z. Wang, X. Lu, R. Diao, H. Li, C. Xu, J. Duan, N. Zhang, and D. Shi, “Deep-Reinforcement-Learning-Based Autonomous Control and Decision Making for Power Systems,” Electric Power Engineering Technology, vol. 39, no. 6, Nov. 2020. (In Chinese)
+
+[C6] X. Wang, Y. Wang, D. Shi, J. Wang, S.Wang, R. Diao and Z. Wang, “Evaluating Load Models and Their Impacts on Power Transfer Limits,” IEEE ICCA, Oct. 2020.
+
+[C7] Z. Liang, D. Bian, C. Xu, X. Zhang, D. Shi, and Z. Wang, “Deep Reinforcement Learning based Energy Management Strategy for Commercial Buildings Considering Comprehensive Comfort Levels,” North American Power Symposium, Tempe, AZ, USA, 2020.
+
+[C8] T. Xia, Z. Yu, K. Sun, D. Shi and Z. Wang, “Extended Prony Analysis on Power System Oscillation Under a Near-Resonance Condition,” IEEE PES General Meeting, Montreal, Canada, 2020. [Best Paper]
+
+[C9] Z. Yu, D. Shi, J. Li, Y. Wang, X. Zhao, Z. Wang and J. Li, “Using Transfer Learning to Distinguish between Natural and Forced Oscillations,” IEEE PES General Meeting, Montreal, Canada, 2020.
+
+[C10] Z. Xu, Y. Zan, C. Xu, J. Li, D. Shi, Z. Wang, B. Zhang and J. Duan, “Accelerated DRL Agent for Autonomous Voltage Control Using Asynchronous Advantage Actor-critic,” IEEE PES General Meeting, Montreal, Canada, 2020.
+
+[C11] Y. Lin, X. Zhang, S. Yin, J. Wang and D. Shi, “Real-Time Economic Dispatch for Integrated Energy Microgrid Considering Ancillary Services,” IEEE PES General Meeting, Montreal, Canada, 2020.
+
+[C12] G. Tian, Y. Gu, X. Lu, D. Shi, Q. Zhou, Z. Wang and J. Li, “Estimation Matrix Calibration of PMU Data-driven State Estimation Using Neural Network,” IEEE PES General Meeting, Montreal, Canada, 2020.
+
+[C13] B. Zhang, X. Lu, R. Diao, H. Li, T. Lan, D. Shi and Z. Wang, “Real-time Autonomous Line Flow Control Using Proximal Policy Optimization,” IEEE PES General Meeting, Montreal, Canada, 2020.
+
+[C14] S. Wang, R. Diao, T. Lan, Z. Wang, D. Shi, H. Li and X. Lu, “A DRL-Aided Multi-Layer Stability Model Calibration Platform Considering Multiple Events,” IEEE PES General Meeting, Montreal, Canada, 2020.
+
+[C15] T. Lan, J. Duan, B. Zhang, D. Shi, Z. Wang, R. Diao and X. Zhang, “AI-Based Autonomous Line Flow Control via Topology Adjustment for Maximizing Time-Series ATCs,” IEEE PES General Meeting, Montreal, Canada, 2020.
+
+[C16] MD Kamruzzaman, X. Zhang, M. Abdelmalak, M. Benidris and D. Shi, “A Method to Evaluate the Maximum Hosting Capacity of Power Systems to Electric Vehicles,” IEEE PMAPS, 2020.
+
+[C17] H. Li, Y. Xiang, T. Jin, S. Wang, Z. Yi and D. Shi, “A DRL-Based Approach for System Frequency Response Model Calibration,” North American Power Symposium, Tempe, AZ, USA, 2020.
+
+[C18] J. Duan, H. Li, X. Zhang, R. Diao, B. Zhang, D. Shi, X. Lu, Z. Wang, and S. Wang, “A Deep Reinforcement Learning Based Approach for Optimal Active Power Dispatch,” IEEE Sustainable Power and Energy Conference, Beijing, 2019.
+
+[C19] X. Zhang, D. Bian, D. Shi, Z. Wang, and G. Liu., “Community Microgrid Planning Considering Building Thermal Dynamics”, IEEE Sustainable Power and Energy Conference, 2019. [Best Paper]
+
+[C20] S. Wang, X. Zhao, F. Xue, W. Li, H. Peng, D. Shi, S. Wang, and Z. Wang, “Electromechanical Transient Modeling of Modular Multilevel Converter based HVDC Network,” IEEE Sustainable Power and Energy Conference, Beijing, 2019. [Best Paper]
+
+[C21] X. Gao, G. Li, X. Zhang, D. Shi, X. Wang, and Z. Bie, “An Iteration Method for Optimal Energy Flow of Combined Heating and Electricity System,” IEEE International Conference on Energy Internet, 2019.
+
+[C22] Q. Qiu, G. Li, X. Zhang, D. Shi, T. Gao, and Z. Bie, “Analysis of Heating and Electrical Loads Based on Auto-encoder for Integrated Park,” IEEE International Conference on Advanced Power System Automation and Protection, Xi’an, China, 2019.
+
+[C23] X. Deng, D. Bian, D. Shi, W. Yao, Z. Jiang, and Y. Liu, “Line Outage Detection and Localization via Synchrophasor Measurement,” IEEE PES Innovative Smart Grid Technologies (ISGT) Asia, Chengdu, China, 2019.
+
+[C24] Q. Chang, Y. Wang, X. Lu, D. Shi, H. Li, J. Duan, and Z. Wang, “Probabilistic Load Forecasting via Point Forecast Feature Integration,” IEEE PES Innovative Smart Grid Technologies (ISGT) Asia, Chengdu, China, 2019.
+
+[C25] Y. Peng, Y. Wang, X. Lu, H. Li, D. Shi, Z. Wang, and J. Li, “Short-term Load Forecasting at Different Aggregation Levels with Predictability Analysis,” IEEE PES Innovative Smart Grid Technologies (ISGT) Asia, Chengdu, China, 2019.
+
+[C26] K. Li, L. Chen, Z. Yu, Y. Wang, D. Shi, “Improvement of Electromechanical Mode Identification from Ambient Data with Stochastic Subspace Method,” IEEE PES APPEEC, 2019. [Best Paper]
+
+[C27] Z. Nie, X. Zhang, X. Zhao, Y. Xu, D. Shi, J. Duan, Z. Wang , “Adaptive Online Learning with Momentum for Contingency-based Voltage Stability Assessment,” IEEE PES General Meeting, 2019.
+
+[C28] R. Diao, Z. Wang, D. Shi, Q. Chang, J. Duan, X. Zhang, “Autonomous Voltage Control for Grid Operation Using Deep Reinforcement Learning,” IEEE PES General Meeting, 2019. [Best Paper]
+
+[C29] Y. Wang, X. Lu, Y. Xu, D. Shi, Z. Yi, J. Duan, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” IEEE PES General Meeting, 2019.
+
+[C30] X. Wang, Y. Wang, D. Shi, J. Wang, “A Deep Stacked Autoencoder Application for Residential Load Curve Forecast and Peak Shaving,” IEEE PES General Meeting, 2019.
+
+[C31] Y. Xiang, X. Lu, Z. Yu, D. Shi, H. Li, Z. Wang, “IoT and Edge Computing Based Direct Load Control for Fast Adaptive Frequency Regulation”, 2019 IEEE PES General Meeting, 2019.
+
+[C32] Chang Fu, Zhe Yu, D. Shi, Haifeng Li, Caisheng Wang, and Zhiwei Wang, “Bayesian Estimation Based Parameter Estimation for Composite Load,” IEEE PES General Meeting, 2019.
+
+[C33] Z. Liang, D. Bian, D. Su, R. Diao, D. Shi, Z. Wang, W. Su, “Adaptive Robust Energy Management Strategy for Campus-Based Commercial Buildings Considering Comprehensive Comfort Levels,” 2019 IEEE PES General Meeting, 2019.
+
+[C34] X. Deng, D. Shi, D. Bian, W. Yao, L. Wu, Y. Liu, “Impact of Low Data Quality on Disturbance Triangulation Application using High-Density PMU Measurements,” IEEE PES ISGT Asia, 2019.
+
+[C35] Y. Peng, Y. Wang, X. Lu, H. Li, D. Shi, Z. Wang, J. Li, “Short-term Load Forecasting at Different Aggregation Levels,” IEEE PES ISGT Asia, 2019.
+
+[C36] J. Duan, Z. Yi, D. Shi, H. Xu, and Z. Wang, “A Neural-Network-Based Optimal Control of Ultra-Capacitors with System Uncertainties,” 2019 IEEE PES Innovative Smart Grid Technologies (ISGT), Washington, DC, USA, 2019.
+
+[C37] Y. Cui, Z. Yi, J. Duan, D. Shi, and Z. Wang, “A Rprop-Neural-Network-Based PV Maximum Power Point Tracking Algorithm with Short-Circuit Current Limitation,” 2019 IEEE PES Innovative Smart Grid Technologies (ISGT), Washington, DC, USA, 2019.
+
+[C38] Z. Yu, D. Shi, H. Li, Y. Wang, Z. Yi, Z. Wang, “An Extended Kalman Filter Enhanced Hilbert-Huang Transform in Oscillation Detection,” ISGT Europe 2018, Sarajevo, Bosnia and Herzegovina, Oct. 2018.
+
+[C39] A. Babqi, Z. Yi, D. Shi, and X. Zhao, “Model Predictive Control of H5 Inverter for Transformerless PV Systems with Maximum Power Point Tracking and Leakage Current Reduction”, 44th Annual Conference of the IEEE Industrial Electronics Society (IECON 2018), 2018.
+
+[C40] Y. Meng, Z. Yu, D. Shi, etc., “Forced Oscillation Source Location via Multivariate Time Series Classification,” IEEE PES Transmission and Distribution (T&D) Conference and Exposition, 2018.
+
+[C41] Y. Wang, Z. Yi, D. Shi, Z. Yu, D. Bian, and Z. Wang, “Optimal Distributed Energy Resources Sizing for Commercial Building Hybrid Microgrids,” 2018 IEEE PES General Meeting, 2018.
+
+[C42] X. Wang, J. Wang, D. Shi, M. Khodayar, “A Factorial Hidden Markov Model for Energy Disaggregation Based on Human Behavior Analysis,” 2018 IEEE PES General Meeting, 2018.
+
+[C43] Z. Yi, A. Babqi, Y. Wang, D. Shi, A. H. Etemadi, Z. Wang, and Bibin Huang, “Finite-Control-Set Model Predictive Control for Hybrid Microgrids,” 2018 IEEE PES General Meeting, 2018.
+
+[C44] Y. Xiang, X. Zhang, D. Shi, Y. Jin, Z. Wang and L. Wang, “A Robust Power Grid Defense Model Considering Load Demand and Wind Generation Uncertainties,” 2018 IEEE PES General Meeting, 2018.
+
+[C45] X. Zhang, D. Shi, X. Lu, Z. Yi, Q. Zhang, and Z. Wang, “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” 2018 IEEE PES General Meeting, 2018.
+
+[C46] S. Rao, D. Tylavsky, W. Yi, V. Vittal, D. Shi, and Z. Wang, “Fast Weak-bus and Bifurcation Point Determination Using Holomorphic Embedding Method,” 2018 IEEE PES General Meeting, 2018.
+
+[C47] M. Liao, D. Shi, Z. Yu, W. Zhu, Z. Wang, Y. Xiang, “Recover the lost Phasor Measurement Unit Data using Alternating Direction Multipliers Method,” 2018 IEEE PES Transmission & Distribution Conference and Exposition, Denver, CO, 2018.
+
+[C48] Y. Meng, Z. Yu, D. Shi, D. Bian, and Z. Wang, “Forced Oscillation Source Location via Multivariate Time Series Classification,” 2018 IEEE PES Transmission & Distribution Conference and Exposition, Denver, CO, 2018.
+
+[C49] X. Zhang, D. Shi, Z. Wang, Z. Yu, X. Wang, D. Bian, and K. Tomsovic, “Bilevel Optimization Based Transmission Expansion Planning Considering Phase Shifting Transformer,” 2017 North American Power Symposium, Morgantown, WV, 2017.
+
+[C50] G. Liu, K. Liu, D. Shi, W. Zhu, Z. Wang, and X. Chen, “Graph Computation and Its Applications in Smart Grid,” 2017 International Congress on Big Data, Honolulu, HI, 2017.
+
+[C51] X. Lu, D. Shi, B. Zhu, etc., “PMU Assisted Power System Parameter Calibration at Jiangsu Electric Power Company,” 2017 IEEE PES General Meeting, Chicago, 2017. [Best Paper]
+
+[C52] L. Yu, D. Shi, X. Guo, etc., “GIS-based Optimal Siting and Sizing of Substation Using Semi-Supervised Learning,” IEEE Green Energy and Smart Systems Conference, Long Beach, CA, 2017.
+
+[C53] L. Zhao, D. Shi, C. Wang, etc., “A Distributed Control Framework for Microgrid with Renewables and Energy Storage Systems,” IEEE Green Energy and Smart Systems Conference, Long Beach, CA, 2017.
+
+[C54] C. Wang, L. Zhao, D. Shi, C. Hong, etc., “Modeling and Control of Energy Storage System in a Microgrid using Electromagnetic Simulation Program (ESP),” IEEE Green Energy and Systems Conference, 2016.
+
+[C55] X. Zhang, D. Shi, Z. Wang, etc., “Optimal Allocation of Static Var Compensator via Mixed Integer Conic Programming,” 2017 IEEE PES General Meeting, 2017.
+
+[C56] D. Shi, J. Luo, W. Zhu, X. Chen, and G. Xu, “Distributed Control for Microgrid with Renewables and Energy Storage Systems,” 2016 International Conference on Global Energy Interconnection, Beijing, 2016.
+
+[C57] G. Liu, K. Liu, D. Shi, W. Zhu, X. Chen, X. Chang, and Y. Xu, “Graph Computation and its Applications in Global Energy Interconnection,” 2016 International Conference on Global Energy Interconnection, Beijing, 2016.
+
+[C58] F. Gao, G. Liu, C. Saunders, D. Shi and W. Zhu, “Energy Disaggregation Based on Mixed Integer Programming and Collocation Method,” IEEE PES General Meeting, 2016.
+
+[C59] B. Ansari, D. Shi, R. Sharma, and M. G. Simoes, “Economic Analysis, Optimal Sizing and Management of Energy Storage for PV Grid Integration,” IEEE PES T&D Conference & Exposition, 2016.
+
+[C60] B. Asghari, R. Patil, D. Shi, and R. Sharma, “A Mixed-mode Energy Management System for Grid Scale Energy Storage Units,” IEEE International Conference on Smart Grid Communications, Miami, FL, 2015.
+
+[C61] Y. Zhu, R. Azim, H. A. Saleem, K. Sun, D. Shi, and R. Sharma, “Microgrid Security Assessment and Islanding Control by Support Vector Machine,” IEEE PES General Meeting, Denver, 2015.
+
+[C62] R. Azim, Y. Zhu, H. A. Saleem, K. Sun, F. Li, D. Shi and R. Sharma, “A Decision Tree Based Approach for Microgrid Islanding Detection,” IEEE Innovative Smart Grid Technologies, Washington, D.C., 2015.
+
+[C63] H. Zhou, X. Zhao, D. Shi, H. Zhao, C. Jing, “Calculating Sequence Impedances of Transmission Line Using PMU Measurements,” IEEE PES General Meeting, Denver, 2015.
+
+[C64] R. Azim, K. Sun, F. Li, Y. Zhu, H. Saleem, D. Shi, and R. Sharma, “A Comparative Analysis of Intelligent Classifiers for Passive Islanding Detection in Microgrids,” Powertech Eindhoven 2015, June 2015.
+
+[C65] D. Shawhan, J. Taber, R. Zimmerman, J. Yan, C. Marquet, W. Schulze, R. Schuler, R. Thomas, D. Tylavsky, D. Shi, N. Li, W. Jewell, T. Hardy, and Z. Hu, “A Detailed Power System Planning Model: Estimating the Long-Run Impact of Carbon-Reducing Policies,” 48th Hawaii International Conference on System Sciences (HICSS), 2015.
+
+[C66] J. Wang, Y. Su, J. Li, C. Jing, D. Shi, and J. Liu, “Online Probabilistic Security Risk Assessment Implementation at China Southern Power Grid Towards Smart Control Center,” IEEE GreenTech, New Orleans, 2015.
+
+[C67] D. Shi, Y. Luo and R. Sharma, “Active Synchronization Control for Microgrid Reconnection after Islanding,” IEEE PES Innovative Smart Grid Technologies (ISGT) Europe, 2014.
+
+[C68] D. He, D. Shi and R. Sharma, “Consensus-based Distributed Cooperative Control for Microgrid Voltage Regulation and Reactive Power Sharing,” IEEE PES Innovative Smart Grid Technologies Europe, 2014.
+
+[C69] J. Zhao, D. Shi and R. Sharma, “Microgrid Reactive Power Management During and Subsequent to Islanding Process,” IEEE PES Transmission and Distribution (T&D) Conf. and Expo., Chicago, Apr. 14-17, 2014.
+
+[C70] R. Patil, A. Keeli, D. Shi and R. Sharma, “Zone Based Control of Building A/C Systems through Temperature Monitoring and Control,” ASME 2014 Power Conference, Baltimore, Maryland, 2014.
+
+[C71] J. Wang, Y. Su, J. Li, C. Jing, and D. Shi, “Real Time Probabilistic Security Risk Assessment at an EMS,” IEEE PES Transmission and Distribution (T&D) Conference and Exposition, Apr. 14-17, 2014.
+
+[C72] D. Shi, R. Sharma, and Y. Ye, “Adaptive Control of Distributed Generation for Microgrid Islanding,” IEEE Innovative Smart Grid Technologies (ISGT) Europe, Lyngby, Denmark, 2013.
+
+[C73] D. Shi, and R. Sharma, “Adaptive Control of Energy Storage for Voltage Regulation in Distribution System,” IEEE International Conference on Smart Energy Grid Engineering (SEGE), Oshawa, Canada, 2013.
+
+[C74] D. Shi, D. Tylavsky, and N. Logic, “An Adaptive Method for Detection and Correction of Errors in PMU Measurements,” IEEE PES General Meeting, Vancouver, Canada, 2013.
+
+[C75] Y. Ye, R. Sharma, and D. Shi, “Adaptive Control of Hybrid Ultracapacitor-battery Storage System for PV Output Smoothing,” Proceedings of the ASME 2013 Power Conference, Boston, Massachusetts, 2013.
+
+[C76] D. Shi, D. L. Shawhan, N. Li, D. J. Tylavsky, J. Taber, and R. D. Zimmerman, “Optimal Generation Investment Planning: Pt. 1: Network Equivalents,” 44th North American Power Symposium, 2012.
+
+[C77] N. Li, D. Shi, D. L. Shawhan, D. J. Tylavsky, J. Taber, and R. D. Zimmerman, “Optimal Generation Investment Planning: Pt. 2: Application to the ERCOT System,” 44th North American Power Symposium, 2012.
+
+[C78] Y. Qi, D. Shi, and D. J. Tylavsky, “Impact of Assumptions on DC Power Flow Model Accuracy,” 44th North American Symposium, 2012.
+
+[C79] D. Shi and D. J. Tylavsky, “An Improved Bus Aggregation Technique for Generating Network Equivalents,” IEEE PES General Meeting, San Diego, USA, 2012.
+
+[C80] D. Shi, D. J. Tylavsky, N. Logic, and K. M. Koellner, “Identification of Short Transmission Line Impedance Parameters using Synchrophasor Measurements,” 40th North American Power Symposium, Nov. 2008.
+
+
