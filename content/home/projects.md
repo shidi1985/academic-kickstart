@@ -51,25 +51,25 @@ filter_default = 0
 +++
 [Journal Papers]
 
-[J1] M. Kamruzzaman, J. Duan, D. Shi, and M. Benidris, “A Deep Reinforcement Learning-based Multi-agent Framework to Enhance Power System Resilience using Shunt Resources,” IEEE Transactions on Power Systems, 2021. 
+[J84] M. Kamruzzaman, J. Duan, D. Shi, and M. Benidris, “A Deep Reinforcement Learning-based Multi-agent Framework to Enhance Power System Resilience using Shunt Resources,” IEEE Transactions on Power Systems, 2021. 
 
-[J2] M. Kamruzzaman, X. Zhang, M. Abdelmalak, D. Shi, and M. Benidris, “A Data-driven Accurate Battery Model to Use in Probabilistic Analysis of Power Systems,” Journal of Energy Storage, 2021.
+[J83] M. Kamruzzaman, X. Zhang, M. Abdelmalak, D. Shi, and M. Benidris, “A Data-driven Accurate Battery Model to Use in Probabilistic Analysis of Power Systems,” Journal of Energy Storage, 2021.
 
-[J3] Y. Zhou, W. Lee, R. Diao, and D. Shi, “Deep Reinforcement Learning Based Real-time AC Optimal Power Flow Considering Uncertainties,” Journal of Modern Power Systems and Clean Energy, 2021.
+[J82] Y. Zhou, W. Lee, R. Diao, and D. Shi, “Deep Reinforcement Learning Based Real-time AC Optimal Power Flow Considering Uncertainties,” Journal of Modern Power Systems and Clean Energy, 2021.
 
-[J4] Z. Zhou, Y. Xiang, H. Xu, Y. Wang, and D. Shi, “Unsupervised Learning for Non-intrusive Load Monitoring in Smart Grid Based on Spiking Deep Neural Network,” Journal of Modern Power Systems and Clean Energy, 2021.
+[J81] Z. Zhou, Y. Xiang, H. Xu, Y. Wang, and D. Shi, “Unsupervised Learning for Non-intrusive Load Monitoring in Smart Grid Based on Spiking Deep Neural Network,” Journal of Modern Power Systems and Clean Energy, 2021.
 
-[J5] Y. Lin, Y. Wang, J. Wang, D. Shi, “Tensor-based Parameter Reduction of Dynamic Load Models with Variable Frequency Drive,” IEEE Transactions on Power Systems, 2021.
+[J80] Y. Lin, Y. Wang, J. Wang, D. Shi, “Tensor-based Parameter Reduction of Dynamic Load Models with Variable Frequency Drive,” IEEE Transactions on Power Systems, 2021.
 
-[J6] M. Cui, F. Li, H. Cui, S. Bu, D. Shi, “Data-driven Joint Voltage Stability Assessment Considering Load Uncertainty: A Variational Bayes Inference Integrated with Multi-CNNs,” IEEE Transactions on Power Systems, 2021.
+[J79] M. Cui, F. Li, H. Cui, S. Bu, D. Shi, “Data-driven Joint Voltage Stability Assessment Considering Load Uncertainty: A Variational Bayes Inference Integrated with Multi-CNNs,” IEEE Transactions on Power Systems, 2021.
 
-[J7] Y. Xiang, Z. Yi, X. Lu, Z. Yu, D. Shi, C. Xu, “Distributed Frequency Emergency Control with Coordinated Edge Intelligence,” Electric Power Systems Research, 2021.
+[J78] Y. Xiang, Z. Yi, X. Lu, Z. Yu, D. Shi, C. Xu, “Distributed Frequency Emergency Control with Coordinated Edge Intelligence,” Electric Power Systems Research, 2021.
 
-[J8] G. Tian, Y. Gu, Z. Yu, Q. Zhang, D. Shi, Q. Zhou, Z. Wang, “Enhanced Denoising Autoencoder Aided Bad Data Filtering for Synchrophasor-based State Estimation,” CSEE Journal of Power and Energy Systems, 2021.
+[J77] G. Tian, Y. Gu, Z. Yu, Q. Zhang, D. Shi, Q. Zhou, Z. Wang, “Enhanced Denoising Autoencoder Aided Bad Data Filtering for Synchrophasor-based State Estimation,” CSEE Journal of Power and Energy Systems, 2021.
 
-[J9] P. Xu, J. Duan, J. Zhang, Y. Pei, D. Shi, Z. Wang, X. Dong, and Y. Sun, “Active Power Correction Strategies Based on Deep Reinforcement Learning-Part I: A Simulation-driven Solution for Robustness,” CSEE Journal of Power and Energy Systems, 2021.
+[J76] P. Xu, J. Duan, J. Zhang, Y. Pei, D. Shi, Z. Wang, X. Dong, and Y. Sun, “Active Power Correction Strategies Based on Deep Reinforcement Learning-Part I: A Simulation-driven Solution for Robustness,” CSEE Journal of Power and Energy Systems, 2021.
 
-[J10] S. Chen, J. Duan, Y. Bai, J. Zhang, D. Shi, Z. Wang, X. Dong, and Y. Sun, “Active Power Correction Strategies Based on Deep Reinforcement Learning-Part II: A Distributed Solution for Adaptability,” CSEE Journal of Power and Energy Systems, 2021. 
+[J75] S. Chen, J. Duan, Y. Bai, J. Zhang, D. Shi, Z. Wang, X. Dong, and Y. Sun, “Active Power Correction Strategies Based on Deep Reinforcement Learning-Part II: A Distributed Solution for Adaptability,” CSEE Journal of Power and Energy Systems, 2021. 
 
 [J11] S. Li, D. Tylavsky, D. Shi, and Z. Wang, “Implications of Stahl’s Theorems to Holomorphic Embedding Pt. I: Theoretical Convergence,” CSEE Journal of Power and Energy Systems, 2021.
 
