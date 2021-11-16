@@ -1,5 +1,5 @@
 +++
-title = "Our paper on Risk-constrained Energy Management for Commercial Campus is accepted by CSEE JPES."
+title = "Paper on Risk-constrained Energy Management for Commercial Campus is accepted by CSEE JPES."
 date = 2021-11-14T00:00:00
 
 # List format.
