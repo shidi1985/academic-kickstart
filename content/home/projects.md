@@ -51,6 +51,8 @@ filter_default = 0
 +++
 [Journal Papers]
 
+[J85] Z. Liang, D. Bian, X. Zhang, and D. Shi, "Risk-constrained Energy Management Strategy for a Commercial Campus Considering Comprehensive Reserves Against Islanding Conditions," CSEE Journal of Power and Energy Systems, 2021.
+
 [J84] M. Kamruzzaman, J. Duan, D. Shi, and M. Benidris, “A Deep Reinforcement Learning-based Multi-agent Framework to Enhance Power System Resilience using Shunt Resources,” IEEE Transactions on Power Systems, 2021. 
 
 [J83] M. Kamruzzaman, X. Zhang, M. Abdelmalak, D. Shi, and M. Benidris, “A Data-driven Accurate Battery Model to Use in Probabilistic Analysis of Power Systems,” Journal of Energy Storage, 2021.
