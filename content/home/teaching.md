@@ -16,7 +16,7 @@ weight = 21
 +++
 [GRANTED: 19]
 
-P1.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids Patent Number”, US Patent 10,651,654.
+P1.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids”, US Patent 10,651,654.
 
 P2.	Z. Yi, H. Li, Z. Wang, R. Diao, X. Zhao, and D. Shi, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent 10,770,904.
 
