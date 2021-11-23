@@ -23,7 +23,7 @@ weight = 23
   (Title of paper: Sizing battery storage for islanded microgrid systems to enhance robustness against attacks on energy sources)
 
 2020  Best Paper Award, 2020 IEEE PES General Meeting
-  (Title of paper: Extended Prony analysis on power system oscillation under a near-resonance conditin)
+  (Title of paper: Extended Prony analysis on power system oscillation under a near-resonance condition)
 
 2019  Two Best Paper Awards, IEEE Sustainable Power and Energy Conference (iSPEC)
   (Titles of papers: Community microgrid planning considering building thermal dynamics, Electromechanical transient modeling of modular multilevel converter based HVDC network)
