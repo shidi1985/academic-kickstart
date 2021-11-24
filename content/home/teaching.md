@@ -14,29 +14,29 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 19]
+[GRANTED: 20]
 
-P1.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids”, US Patent 10,651,654.
+P1.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
-P2.	Z. Yi, H. Li, Z. Wang, R. Diao, X. Zhao, and D. Shi, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent 10,770,904.
+P2.	D. He, D. Shi, and R. Sharma, “Consensus-based Distributed Cooperative Control for Microgrid Voltage Regulation and Reactive Power Sharing,” US Patent 9,882,386.
 
-P3.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
+P3.	D. Shi, and R. Sharma, “Enhancing Power System Voltage Stability Using Grid Energy Storage for Voltage Support,” US Patent 9,866,029.
 
-P4.	D. He, D. Shi, and R. Sharma, “Consensus-based Distributed Cooperative Control for Microgrid Voltage Regulation and Reactive Power Sharing,” US Patent 9,882,386.
+P4.	J. Zhao, D. Shi, and R. Sharma, “Microgrid Reactive Power Management for Voltage Regulation During and Subsequent to Islanding,” US Patent 9,812,870.
 
-P5.	D. Shi, and R. Sharma, “Enhancing Power System Voltage Stability Using Grid Energy Storage for Voltage Support,” US Patent 9,866,029.
+P5.	D. Shi, R. Sharma, and Y. Luo, “Synchronization Control for Reconnecting Microgrid to Main Grid After Islanding,” US Patent 9,720,395.
 
-P6.	J. Zhao, D. Shi, and R. Sharma, “Microgrid Reactive Power Management for Voltage Regulation During and Subsequent to Islanding,” US Patent 9,812,870.
+P6.	Y. Ye, R. Sharma, and D. Shi, “Adaptive Control of Hybrid Ultracapacitor-battery Storage System for Photovoltaic Output Smoothing,” US Patent 9,536,205.
 
-P7.	D. Shi, R. Sharma, and Y. Luo, “Synchronization Control for Reconnecting Microgrid to Main Grid After Islanding,” US Patent 9,720,395.
+P7.	D. Shi, R. Sharma, and Y. Ye, “Distributed Generation Control for Microgrid During Islanding,” US Patent 9,411,389.
 
-P8.	Y. Ye, R. Sharma, and D. Shi, “Adaptive Control of Hybrid Ultracapacitor-battery Storage System for Photovoltaic Output Smoothing,” US Patent 9,536,205.
+P8. R. Sharma, D. Shi, B. Asghari, and R. Patil, “Management of Grid Scale Energy Storage System for Multiple Services,” US Patent 10,205,317.
 
-P9.	D. Shi, R. Sharma, and Y. Ye, “Distributed Generation Control for Microgrid During Islanding,” US Patent 9,411,389.
+P9. X. Lu, X. Wang, D. Shi, Z. Wang, “Data Mining based Approach for Online Calibration of Phasor Measurement Unit,” US Patent 10,551,471.
 
-P10.R. Sharma, D. Shi, B. Asghari, and R. Patil, “Management of Grid Scale Energy Storage System for Multiple Services,” US Patent 10,205,317.
+P10.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller for Autonomous Hybrid Microgrids”, US Patent 10,651,654.
 
-P11.X. Lu, X. Wang, D. Shi, Z. Wang, “Data Mining based Approach for Online Calibration of Phasor Measurement Unit,” US Patent 10,551,471.
+P11.	Z. Yi, H. Li, Z. Wang, R. Diao, X. Zhao, and D. Shi, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent 10,770,904.
 
 P12.Z. Yu, Y. Meng, D. Shi, X. Lu, etc., “Oscillation Source Location Method, Device, Terminal and Readable Storage Medium,” Chinese Patent CN108574290.
 
@@ -54,13 +54,13 @@ P18.	X. Lu, D. Shi, Y. Xiang, H. Li, C. Xu, etc., “Smart outlet system with fa
 
 P19.	H. Li, X. Lu, Y. Xiang, C. Xu, D. Shi, Z. Yu, S. Xu, etc., “An Adaptive Method for Aggregation of Distributed Loads to Provide Emergency Frequency Support,” US Patent 11,178,610.
 
-[PENDING: 23]
+P20. Z. Yu, Y. Wang, H. Li, C. Fu, Z. Wang, and D. Shi, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873.
 
-P20.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
+[PENDING: 22]
 
-P21.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
+P21.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 
-P22.	Z. Yu, Y. Wang, H. Li, C. Fu, Z. W, and D. Shi, “An Approach of Parameter Estimation for Composite Load Based on Bayesian Estimation,” US Patent Application No: 62,756,387.
+P22.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
 
 P23.	Y. Wang, D. Shi, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent Application No. 62,757,097.
 
