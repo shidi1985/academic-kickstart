@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our paper "A blockchain-enabled demand management and control framework driven by deep reinforcement learning" is accepted by IEEE Trans. Industrial Electronics. This paper presents a framework leveraging Internet-of-Things and AI to manage an massive amount of distributed controllable resources. This framework is implemented using a consortium open-source blockchain platform, Hyperledger Fabric, and validated with real-world data. We are also working on a pilot project demonstrating this software in real-world power systems.
+Our paper "A blockchain-enabled demand management and control framework driven by deep reinforcement learning" is accepted by IEEE Trans. Industrial Electronics. This paper presents a framework leveraging Internet-of-Things and AI to manage a massive amount of distributed controllable resources. This framework is implemented using a consortium open-source blockchain platform, Hyperledger Fabric, and validated with real-world data. We are also working on a pilot project demonstrating this software in real-world power systems.
