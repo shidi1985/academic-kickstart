@@ -226,6 +226,8 @@ filter_default = 0
 
 [Conference Papers]
 
+[C81] Y. Zhou, L. Zhou, D. Shi, X. Zhao, "Coordinated Frequency Control through Safe Reinforcement Learning," IEEE PES General Meeting, 2022.
+
 [C80] H. Li, Y. Xiang, T. Jin, S. Wang, Z. Yi, and D. Shi, “A DRL-Based Approach for System Frequency Response Model Calibration,” 52nd North American Power Symposium (NAPS), 2021.
 
 [C79] Z. Liang, D. Bian, C. Xu, X. Zhang, D. Shi, and Z. Wang, “Deep Reinforcement Learning based Energy Management Strategy for Commercial Building Considering Comprehensive Comfort Levels,” 52nd North American Power Symposium (NAPS), 2021.
