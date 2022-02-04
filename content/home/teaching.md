@@ -56,7 +56,7 @@ P19.	H. Li, X. Lu, Y. Xiang, C. Xu, D. Shi, Z. Yu, S. Xu, etc., “An Adaptive M
 
 P20. Z. Yu, Y. Wang, H. Li, C. Fu, Z. Wang, and D. Shi, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873.
 
-[PENDING: 22]
+[ALLOWED/PENDING: 22]
 
 P21.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 
