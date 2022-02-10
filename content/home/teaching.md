@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 20]
+[GRANTED: 21]
 
 P1.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
@@ -56,13 +56,13 @@ P19.	H. Li, X. Lu, Y. Xiang, C. Xu, D. Shi, Z. Yu, S. Xu, etc., “An Adaptive M
 
 P20. Z. Yu, Y. Wang, H. Li, C. Fu, Z. Wang, and D. Shi, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873.
 
-[ALLOWED/PENDING: 22]
+P21.	Y. Wang, D. Shi, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent Application No. 62,757,097.
 
-P21.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
+[ALLOWED/PENDING: 21]
 
-P22.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
+P22.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
 
-P23.	Y. Wang, D. Shi, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent Application No. 62,757,097.
+P23.	Z. Yi, Y. Wang, D. Shi, etc., “Model Predictive Controller for Autonomous Hybrid Microgrids,” US Patent Application No: 62,582,823.
 
 P24.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
 
