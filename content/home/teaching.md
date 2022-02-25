@@ -56,7 +56,7 @@ P19.	H. Li, X. Lu, Y. Xiang, C. Xu, D. Shi, Z. Yu, S. Xu, etc., “An Adaptive M
 
 P20. Z. Yu, Y. Wang, H. Li, C. Fu, Z. Wang, and D. Shi, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873.
 
-P21.	Y. Wang, D. Shi, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent Application No. 62,757,097.
+P21.	Y. Wang, D. Shi, Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent 11,264,799.
 
 [ALLOWED/PENDING: 21]
 
