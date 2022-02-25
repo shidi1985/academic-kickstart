@@ -1,5 +1,5 @@
 +++
-title = "One US patent on submodular load clustering using robust principal component analysis has been granted."
+title = "One US patent on submodular load clustering using robust principal component analysis has been granted with patent no. 11,264,799."
 date = 2022-02-10T00:00:00
 
 # List format.
