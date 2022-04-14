@@ -1,5 +1,5 @@
 +++
-title = "One US patent on power system state estimation using machine learning method has been granted with no. 11,320,492."
+title = "One US patent on power system state estimation using machine learning techniques has been granted with no. 11,320,492."
 date = 2022-04-13T00:00:00
 
 # List format.
