@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 22]
+[GRANTED: 23]
 
 P1.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
@@ -60,9 +60,9 @@ P21.	Y. Wang, H. Li, D. Shi, Q. Zhang, C. Xu, and Z. Wang, “Submodular Load Cl
 
 P22.  Y. Gu, G. Tian, C. Xu, Q. Zhang, R. Diao and D. Shi, "Systems and Methods of Power System State Estimation," US Patent 11,320,492.
 
-P23. R. Diao, D. Shi, B. Zhang, S. Wang, et al., "Multi-objective Real-time Power Flow Control Method Using Soft Actor-Critic," US Patent 17/092,478.
+P23. R. Diao, D. Shi, B. Zhang, S. Wang, et al., "Multi-objective Real-time Power Flow Control Method Using Soft Actor-Critic," US Patent 17,092,478.
 
-[ALLOWED/PENDING: 20]
+[ALLOWED/PENDING: 19]
 
 P24.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
 
