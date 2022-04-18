@@ -199,7 +199,7 @@ filter_default = 0
 
 [J14] B. Kan, W. Zhu, G. Liu, X. Chen, and D. Shi. “Topology Modeling and Analysis in Power Grid Network based on Graph Database,” International Journal of Computational Intelligence Systems, 2017.
 
-[J13] Y. Li, D. Shi, X. Guo, etc., “An Efficient GIS-based Substation Placement and Sizing Strategy Using Semi-Supervised Learning,” CSEE Journal of Power and Energy Systems, 2017.
+[J13] Y. Li, D. Shi, X. Guo, et al., “An Efficient GIS-based Substation Placement and Sizing Strategy Using Semi-Supervised Learning,” CSEE Journal of Power and Energy Systems, 2017.
 
 [J12] D. Bian, M. Kuzlu, M. Pipattanasomporn, S. Rahman, D. Shi, “Performance Evaluation of Communication Network Supporting Various Smart Grid Applications,” IET Communications, 2018.
 
@@ -211,7 +211,7 @@ filter_default = 0
 
 [J8] Z. Yu, D. Shi, Z. Wang, Q. Zhang, J. Huang, and S. Pan, “Distributed Estimation of Oscillations in Power Systems: an Extended Kalman Filtering Approach,” CSEE Journal of Power and Energy Systems, 2017.
 
-[J7] X. Wang, D. Shi, Z. Wang, etc., “Online Calibration of Phasor Measurement Unit Using Density-based Spatial Clustering,” IEEE Trans. Power Delivery, 2017.
+[J7] X. Wang, D. Shi, Z. Wang, et al., “Online Calibration of Phasor Measurement Unit Using Density-based Spatial Clustering,” IEEE Trans. Power Delivery, 2017.
 
 [J6] G. Liu, D. Shi, W. Zhu, X. Chen, and J. Chen, “Clouds and Fog Computation Based Optimal Control and Software-defined Application Techniques,” Power Information and Communication Technology, vol. 14, no. 3, 2016.
 
@@ -234,9 +234,9 @@ filter_default = 0
 
 [C79] Z. Liang, D. Bian, C. Xu, X. Zhang, D. Shi, and Z. Wang, “Deep Reinforcement Learning based Energy Management Strategy for Commercial Building Considering Comprehensive Comfort Levels,” 52nd North American Power Symposium (NAPS), 2021.
 
-[C78] R. Diao, D. Shi, B. Zhang, S. Wang, H. Li, C. Xu, etc., “On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control,” NeurIPS 2020.
+[C78] R. Diao, D. Shi, B. Zhang, S. Wang, H. Li, C. Xu, et al., “On Training Effective Reinforcement Learning Agents for Real-time Power Grid Operation and Control,” NeurIPS 2020.
 
-[C77] X. Zhou, S. Wang, R. Diao, D. Bian, J. Duan, D. Shi, etc., “Rethink AI-based Power Grid Control: Diving Into Algorithm Design,” NeurIPS 2020.
+[C77] X. Zhou, S. Wang, R. Diao, D. Bian, J. Duan, D. Shi, et al., “Rethink AI-based Power Grid Control: Diving Into Algorithm Design,” NeurIPS 2020.
 
 [C76] Z. Wang, X. Lu, R. Diao, H. Li, C. Xu, J. Duan, N. Zhang, and D. Shi, “Deep-Reinforcement-Learning-Based Autonomous Control and Decision Making for Power Systems,” Electric Power Engineering Technology, vol. 39, no. 6, Nov. 2020. (In Chinese)
 
@@ -308,7 +308,7 @@ filter_default = 0
 
 [C42] A. Babqi, Z. Yi, D. Shi, and X. Zhao, “Model Predictive Control of H5 Inverter for Transformerless PV Systems with Maximum Power Point Tracking and Leakage Current Reduction”, 44th Annual Conference of the IEEE Industrial Electronics Society (IECON 2018), 2018.
 
-[C41] Y. Meng, Z. Yu, D. Shi, etc., “Forced Oscillation Source Location via Multivariate Time Series Classification,” IEEE PES Transmission and Distribution (T&D) Conference and Exposition, 2018.
+[C41] Y. Meng, Z. Yu, D. Shi, et al., “Forced Oscillation Source Location via Multivariate Time Series Classification,” IEEE PES Transmission and Distribution (T&D) Conference and Exposition, 2018.
 
 [C40] Y. Wang, Z. Yi, D. Shi, Z. Yu, D. Bian, and Z. Wang, “Optimal Distributed Energy Resources Sizing for Commercial Building Hybrid Microgrids,” 2018 IEEE PES General Meeting, 2018.
 
@@ -330,15 +330,15 @@ filter_default = 0
 
 [C31] G. Liu, K. Liu, D. Shi, W. Zhu, Z. Wang, and X. Chen, “Graph Computation and Its Applications in Smart Grid,” 2017 International Congress on Big Data, Honolulu, HI, 2017.
 
-[C30] X. Lu, D. Shi, B. Zhu, etc., “PMU Assisted Power System Parameter Calibration at Jiangsu Electric Power Company,” 2017 IEEE PES General Meeting, Chicago, 2017. [Best Paper]
+[C30] X. Lu, D. Shi, B. Zhu, et al., “PMU Assisted Power System Parameter Calibration at Jiangsu Electric Power Company,” 2017 IEEE PES General Meeting, Chicago, 2017. [Best Paper]
 
-[C29] L. Yu, D. Shi, X. Guo, etc., “GIS-based Optimal Siting and Sizing of Substation Using Semi-Supervised Learning,” IEEE Green Energy and Smart Systems Conference, Long Beach, CA, 2017.
+[C29] L. Yu, D. Shi, X. Guo, et al., “GIS-based Optimal Siting and Sizing of Substation Using Semi-Supervised Learning,” IEEE Green Energy and Smart Systems Conference, Long Beach, CA, 2017.
 
-[C28] L. Zhao, D. Shi, C. Wang, etc., “A Distributed Control Framework for Microgrid with Renewables and Energy Storage Systems,” IEEE Green Energy and Smart Systems Conference, Long Beach, CA, 2017.
+[C28] L. Zhao, D. Shi, C. Wang, et al., “A Distributed Control Framework for Microgrid with Renewables and Energy Storage Systems,” IEEE Green Energy and Smart Systems Conference, Long Beach, CA, 2017.
 
-[C27] C. Wang, L. Zhao, D. Shi, C. Hong, etc., “Modeling and Control of Energy Storage System in a Microgrid using Electromagnetic Simulation Program (ESP),” IEEE Green Energy and Systems Conference, 2016.
+[C27] C. Wang, L. Zhao, D. Shi, C. Hong, et al., “Modeling and Control of Energy Storage System in a Microgrid using Electromagnetic Simulation Program (ESP),” IEEE Green Energy and Systems Conference, 2016.
 
-[C26] X. Zhang, D. Shi, Z. Wang, etc., “Optimal Allocation of Static Var Compensator via Mixed Integer Conic Programming,” 2017 IEEE PES General Meeting, 2017.
+[C26] X. Zhang, D. Shi, Z. Wang, et al., “Optimal Allocation of Static Var Compensator via Mixed Integer Conic Programming,” 2017 IEEE PES General Meeting, 2017.
 
 [C25] D. Shi, J. Luo, W. Zhu, X. Chen, and G. Xu, “Distributed Control for Microgrid with Renewables and Energy Storage Systems,” 2016 International Conference on Global Energy Interconnection, Beijing, 2016.
 
