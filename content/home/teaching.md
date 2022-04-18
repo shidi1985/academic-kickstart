@@ -38,21 +38,21 @@ P10.	Z. Yi, Y. Wang, B. Huang, D. Shi, Z. Wang, “Model Predictive Controller f
 
 P11.	Z. Yi, H. Li, Z. Wang, R. Diao, X. Zhao, and D. Shi, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent 10,770,904.
 
-P12.Z. Yu, Y. Meng, D. Shi, X. Lu, etc., “Oscillation Source Location Method, Device, Terminal and Readable Storage Medium,” Chinese Patent CN108574290.
+P12.Z. Yu, Y. Meng, D. Shi, X. Lu, et al., “Oscillation Source Location Method, Device, Terminal and Readable Storage Medium,” Chinese Patent CN108574290.
 
 P13.G. Li, Y. Lei, C. Xu, X. Zhang, and D. Shi, “A Clustering of Power System Operation Mode Based on Sparse Autoencoder,” Chinese Patent CN109711483.
 
-P14.D. Shi, X. Lu, X. Chen, etc., “Method and Device for Online Calibration of Synchrophasor Measurement Unit,” Chinese Patent CN107132500.
+P14.D. Shi, X. Lu, X. Chen, et al., “Method and Device for Online Calibration of Synchrophasor Measurement Unit,” Chinese Patent CN107132500.
 
-P15.D. Shi, Y. Xiang, D. Bian, G. Zhao, etc., “Method and System for Control of Energy Block for Flexible Load”, Chinese Patent CN109768555.
+P15.D. Shi, Y. Xiang, D. Bian, G. Zhao, et al., “Method and System for Control of Energy Block for Flexible Load”, Chinese Patent CN109768555.
 
 P16.J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System based on Reinforcement Learning,” US Patent 10,985,572.
 
-P17.X. Zhang, D. Shi, X. Lu, etc., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent 11,029,344.
+P17.X. Zhang, D. Shi, X. Lu, et al., “Sensitivity Based Thevenin Index for Voltage Stability Assessment Considering N-1 Contingency,” US Patent 11,029,344.
 
-P18.	X. Lu, D. Shi, Y. Xiang, H. Li, C. Xu, etc., “Smart outlet system with fast frequency tracking for power system frequency control using distributed appliances,” US Patent 11,114,893.
+P18.	X. Lu, D. Shi, Y. Xiang, H. Li, C. Xu, et al., “Smart outlet system with fast frequency tracking for power system frequency control using distributed appliances,” US Patent 11,114,893.
 
-P19.	H. Li, X. Lu, Y. Xiang, C. Xu, D. Shi, Z. Yu, S. Xu, etc., “An Adaptive Method for Aggregation of Distributed Loads to Provide Emergency Frequency Support,” US Patent 11,178,610.
+P19.	H. Li, X. Lu, Y. Xiang, C. Xu, D. Shi, Z. Yu, S. Xu, et al., “An Adaptive Method for Aggregation of Distributed Loads to Provide Emergency Frequency Support,” US Patent 11,178,610.
 
 P20. Z. Yu, Y. Wang, H. Li, C. Fu, Z. Wang, and D. Shi, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873.
 
@@ -60,9 +60,9 @@ P21.	Y. Wang, H. Li, D. Shi, Q. Zhang, C. Xu, and Z. Wang, “Submodular Load Cl
 
 P22.  Y. Gu, G. Tian, C. Xu, Q. Zhang, R. Diao and D. Shi, "Systems and Methods of Power System State Estimation," US Patent 11,320,492.
 
-[ALLOWED/PENDING: 20]
+P23. R. Diao, D. Shi, B. Zhang, S. Wang, et al., "Multi-objective Real-time Power Flow Control Method Using Soft Actor-Critic," US Patent 17/092,478.
 
-P23.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent Application No. 62,744,217.
+[ALLOWED/PENDING: 20]
 
 P24.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
 
@@ -84,7 +84,7 @@ P32.	Y. Wang, H. Li, D. Shi, Q. Zhang, C. Xu, and Z. Wang, “Submodular Load Cl
 
 P33.	S. Wang, R. Diao, T. Lan, X. Lu, D. Shi, Z. Wang, “AI-aided Automatic Dynamic Model Validation and Parameter Calibration Platform,” US Patent App. No. 62,930,152.
 
-P34.	D. Shi, J. Duan, R. Diao, B. Zhang, X. Lu, H. Li, etc., “An Approach for Autonomous Voltage Control for Grid Operations Using Deep Deterministic Policy Gradient,” US Patent App. No. 62,833,776.
+P34.	D. Shi, J. Duan, R. Diao, B. Zhang, X. Lu, H. Li, et al., “An Approach for Autonomous Voltage Control for Grid Operations Using Deep Deterministic Policy Gradient,” US Patent App. No. 62,833,776.
 
 P35.	J. Duan, S. Wang, D. Shi, R. Diao, B. Zhang, X. Lu, Z. Wang, “A Data-driven Multi-agent Autonomous Voltage Control Framework based on Deep Reinforcement Learning,” US Patent App. No. 62,933,194.
 
