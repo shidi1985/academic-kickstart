@@ -51,6 +51,8 @@ filter_default = 0
 +++
 [Journal Papers]
 
+[87] Y. Lin, X. Zhang, J. Wang, D. Shi, and D. Bian, "Voltage Stability Constrained Optimal Power Flow for Unbalanced Distribution System Based on Semidefinite Programming," Journal of Modern Power Systems and Clean Energy, 2022.
+
 [86] R. Ma, Z. Yi, Y. Xiang, D. Shi, C. Xu, H. Wu, "A Blockchain-Enabled Demand Management and Control Framework Driven by Deep Reinforcement Learning," IEEE Transactions on Industrial Electronics, 2022.
 
 [J85] Z. Liang, D. Bian, X. Zhang, and D. Shi, "Risk-constrained Energy Management Strategy for a Commercial Campus Considering Comprehensive Reserves Against Islanding Conditions," CSEE Journal of Power and Energy Systems, 2021.
