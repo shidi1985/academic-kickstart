@@ -62,7 +62,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2015-10-02"
   date_end = "2020-12-23"
-  description = """Led and coordinated across multiple research groups on project planning, management, and business development. Led the AI & System Analytics Group in developing innovative technologies and solutions for power systems in the areas of data analytics, aritificial intelligence, energy storage systems, Internet of things (IoT), etc."""
+  description = """Led and coordinated across multiple research groups on project planning, management, and business development. Led the AI & System Analytics Group in developing innovative technologies and solutions for power systems in the areas of data analytics, AI, energy storage systems, and Internet of things (IoT). Founded the AI & System Analytics department (research program) and grow the team to 17 full-time researchers over 5 years."""
  
 [[experience]]
   title = "Founder"
