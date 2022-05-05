@@ -13,8 +13,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 24
 
-+++
-
++++     
 T57. June 2021, Hohai University, "Applications of AI in Power System Control and Optimization"   
 T56. May 2021, Xi'an Jiaotong University, "Applications of AI in Power System Control and Optimization"   
 T55.  Aug. 2020, the 5th Zijin Forum, NARI Group, "An AI-to-Grid Story: Grid Mind Development and Demonstration"    
@@ -71,4 +70,4 @@ T5.	Oct. 2013, Energy Management via Information Technologies
 T4.	Mar. 2012, Nexant   
 T3.	Dec. 2011, NEC Laboratories America   
 T2.	Nov. 2011, Pacific Northwest National Laboratory    
-T1.	Aug. 2011, Electric Power Research Institute    
+T1.	Aug. 2011, Electric Power Research Institute
