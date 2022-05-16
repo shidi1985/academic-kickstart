@@ -1,5 +1,5 @@
 +++
-title = "Our paper on Coordinated Frequency Control has been selected one of the Best papers by IEEE PES General Meeting 2022."
+title = "Our paper on Coordinated Frequency Control has been selected as one of the Best papers by IEEE PES General Meeting 2022."
 date = 2022-05-16T00:00:00
 
 # List format.
