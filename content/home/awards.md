@@ -14,6 +14,9 @@ subtitle = ""
 weight = 23
 
 +++
+2022 Best Paper Award, 2022 IEEE PES General Meeting
+  (Title of paper: Coordinated Frequency Control through Safe Reinforcement Learning)
+
 2021  Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2020
   (Title of paper: A data-driven method for fast AC optimal power flow solutions via deep reinforcement learning)
 
