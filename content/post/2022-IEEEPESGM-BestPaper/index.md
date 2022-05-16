@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our papers "Coordinated Frequency Control through Safe Reinforcement Learning" has been selected by IEEE PES General Meeting as one of its best papers. This paper presents an innovative approach for coordinated frequency control by handling large number of constraints on power flows on flowgates, and demonstrates the approach on one of the world's largest regional power grids. Check it out at: https://arxiv.org/abs/2202.00530
+Our papers "Coordinated Frequency Control through Safe Reinforcement Learning" has been selected by IEEE PES General Meeting as one of its best papers. This paper presents an innovative approach for coordinated frequency control with a large number of constraints on power flows through flowgates, and demonstrates the approach on one of the world's largest regional power grids. Check it out at: https://arxiv.org/abs/2202.00530
