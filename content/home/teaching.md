@@ -60,7 +60,7 @@ P21.	Y. Wang, H. Li, D. Shi, Q. Zhang, C. Xu, and Z. Wang, “Submodular Load Cl
 
 P22.  Y. Gu, G. Tian, C. Xu, Q. Zhang, R. Diao and D. Shi, "Systems and Methods of Power System State Estimation," US Patent 11,320,492.
 
-P23. R. Diao, D. Shi, B. Zhang, S. Wang, et al., "Multi-objective Real-time Power Flow Control Method Using Soft Actor-Critic," US Patent 17,092,478.
+P23. R. Diao, D. Shi, B. Zhang, S. Wang, et al., "Multi-objective Real-time Power Flow Control Method Using Soft Actor-Critic," US Patent 11,336,092.
 
 [ALLOWED/PENDING: 19]
 
