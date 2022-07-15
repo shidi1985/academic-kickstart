@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 23]
+[GRANTED: 24]
 
 P1.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
@@ -62,17 +62,17 @@ P22.  Y. Gu, G. Tian, C. Xu, Q. Zhang, R. Diao and D. Shi, "Systems and Methods 
 
 P23. R. Diao, D. Shi, B. Zhang, S. Wang, et al., "Multi-objective Real-time Power Flow Control Method Using Soft Actor-Critic," US Patent 11,336,092.
 
-[ALLOWED/PENDING: 19]
+P24. D. Shi, X. Zhao, F. Xue, H. Peng, J. Qin, C. Jing, and Z. Wang, “Generalized Equivalent Circuit Model of MMC-HVDC for Power System Simulation,” US Patent 11,404,973.
 
-P24.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
+[ALLOWED/PENDING: 18]
 
-P25.	H. Li, X. Lu, Y. Xiang, and D. Shi. “Method for Aggregation of Distributed Load to Provide Grid Services,” US Patent Application No. 62,681,806.
+P25.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
 
-P26.	X. Lu, D. Shi, Y. Xiang. “Method and Device for Distributed Frequency and Voltage Regulation for Power Systems,” US Patent Application No. 62,681,971.
+P26.	H. Li, X. Lu, Y. Xiang, and D. Shi. “Method for Aggregation of Distributed Load to Provide Grid Services,” US Patent Application No. 62,681,806.
 
-P27.	Z. Yi, H. Li, X. Zhang, X. Zhao, D. Shi, R. Diao, and Z. Wang, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent App. No. 16,390,510.
+P27.	X. Lu, D. Shi, Y. Xiang. “Method and Device for Distributed Frequency and Voltage Regulation for Power Systems,” US Patent Application No. 62,681,971.
 
-P28.	D. Shi, X. Zhao, F. Xue, H. Peng, J. Qin, C. Jing, and Z. Wang, “Generalized Equivalent Circuit Model of MMC-HVDC for Power System Simulation,” US Patent App. No. 16,562,566.
+P28.	Z. Yi, H. Li, X. Zhang, X. Zhao, D. Shi, R. Diao, and Z. Wang, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent App. No. 16,390,510.
 
 P29.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent App. No. 16,594,033.
 
