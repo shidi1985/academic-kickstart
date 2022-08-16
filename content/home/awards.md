@@ -14,7 +14,7 @@ subtitle = ""
 weight = 23
 
 +++
-2022 Best Paper Award, 2022 IEEE PES General Meeting
+2022 Best Papers Award, 2022 IEEE PES General Meeting
   (Title of paper: Coordinated Frequency Control through Safe Reinforcement Learning)
 
 2021  Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2020
@@ -25,10 +25,10 @@ weight = 23
 2020  Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2019
   (Title of paper: Sizing battery storage for islanded microgrid systems to enhance robustness against attacks on energy sources)
 
-2020  Best Paper Award, 2020 IEEE PES General Meeting
+2020  Best Papers Award, 2020 IEEE PES General Meeting
   (Title of paper: Extended Prony analysis on power system oscillation under a near-resonance condition)
 
-2019  Two Best Paper Awards, IEEE Sustainable Power and Energy Conference (iSPEC)
+2019  Two Best Papers Awards, IEEE Sustainable Power and Energy Conference (iSPEC)
   (Titles of papers: Community microgrid planning considering building thermal dynamics, Electromechanical transient modeling of modular multilevel converter based HVDC network)
 
 2019  Championship, International AI Competition Hosted by RTE France "Learning to Run a Power Network (L2RPN)"
@@ -36,14 +36,14 @@ weight = 23
 2019  Best Track Paper Award, IEEE APPEEC 2019
   (Title of paper: Improvement of Electromechanical Mode Identification from Ambient Data with Stochastic Subspace Method)
   
-2019  Best Paper Award, IEEE PES General Meeting 2019
+2019  Best Papers Award, IEEE PES General Meeting 2019
   (Title of paper: Autonomous voltage control for grid operation using deep reinforcement learning)
 
 2018  Outstanding Researcher Award, GEIRI North America
 
 2017	Researcher of the Year, GEIRI North America
 
-2017	Best Paper Award, IEEE PES General Meeting 2017
+2017	Best Papers Award, IEEE PES General Meeting 2017
   (Title of paper: PMU assisted power system parameter calibration at Jiangsu Electric Power Company)
 
 2016	Outstanding Performance Award, GEIRI North America
