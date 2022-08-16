@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Di Shi - AINERGY"
+title = "Di Shi"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -53,24 +53,24 @@ enableGitInfo = false
 
   # Your details.
   name = "Di Shi"
-  role = "Founder-AInergy"
+  role = "Associate Professor of Electrical and Computer Engineering"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "AInergy", url = "https://ainergys.com" } ]
+  organizations = [ { name = "New Mexico State University", url = "https://nmsu.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "di.shi@asu.edu"
+  email = "dshi@nmsu.edu"
   address = ""
   office_hours = """
   Mon.-Fri. 9:30am-5pm
   Or email to make an appointment
   """
   phone = ""
-  skype = "sdxjtu_1"
+  skype = ""
   telegram = ""
   keybase = ""  # Your keybase.io username.
 
@@ -277,7 +277,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:di.shi@asu.edu"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:dshi@nmsu.edu"  # For a direct email link, use "mailto:test@example.org".
     
     
 
