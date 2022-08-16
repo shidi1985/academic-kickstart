@@ -80,6 +80,6 @@ date_format = "January 2006"
   location = "New Mexico"
   date_start = "2022-08-15"
   date_end = ""
-  description = """Teach, research, and service in the school of ECE."""
+  description = """Teach, research, and service in the School of Electrical and Computer Engineering."""
 
 +++
