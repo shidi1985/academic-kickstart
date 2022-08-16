@@ -72,14 +72,5 @@ date_format = "January 2006"
   date_start = "2020-12-24"
   date_end = ""
   description = """AInergy specializes in artificial intelligence technologies for energy. We develop solutions to help the power grid run more efficiently and reliably."""
-  
-[[experience]]
-  title = "Associate Professor"
-  company = "New Mexico State University"
-  company_url = "https://nmsu.edu"
-  location = "New Mexico"
-  date_start = "2022-8-15"
-  date_end = ""
-  description = """Teach, research and service as a faculty member in the Klipsch School of Electrical and Computer Engineering."""
 
 +++
