@@ -70,7 +70,7 @@ date_format = "January 2006"
   company_url = "https://ainergys.com"
   location = "California"
   date_start = "2020-12-24"
-  date_end = ""
+  date_end = "2022-08-14"
   description = """AInergy specializes in artificial intelligence technologies for energy. We develop solutions to help the power grid run more efficiently and reliably."""
 
 
