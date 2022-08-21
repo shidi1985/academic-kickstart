@@ -1,5 +1,5 @@
 +++
-title = "AInergy's AI-powered distrituion grid Volt-VAR optimization and control software has been adopted at 5 Grid Dispatch and Control Centers"
+title = "AInergy's AI-powered distrituion grid Volt-VAR optimization and control software has been adopted at multiple Grid Dispatch and Control Centers"
 date = 2022-07-17T00:00:00
 
 # List format.
@@ -23,4 +23,4 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-Our software which optimizes and controls the voltage and reactive power of distribution grids has been successfully implemented at 5 dispatcher centers, which controls multiple renewable power plants. The software has been tested in closed-loop operation for 5 days, demonstrating its advantages over classical solutions in this area. 
+Our software which optimizes and controls the voltage and reactive power of distribution grids has been successfully implemented at multiple dispatcher centers, which controls multiple renewable power plants. The software has been tested in closed-loop operation, demonstrating its advantages over classical solutions in this area. 
