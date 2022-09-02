@@ -40,7 +40,7 @@ weight = 3
 
 Dr. Di Shi is an associate professor with the Klipsch School of Electrical and Computer Engineering at New Mexico State University (NMSU).
 
-Dr. Shi serves as Editor of IEEE Transactions on Power Systems and IEEE Power Engineering Letters, and Chair of IEEE San Francisco Section Chapter PES. He also serves as Chair of IEEE TF of IoT for Power Systems, and Secretary of IEEE Working Group of Machine Learning for Power Systems. He was an editor of IEEE Transactions on Smart Grid during 2017-2021.
+Dr. Shi serves as Editor of IEEE Transactions on Power Systems, IEEE Power Engineering Letters, and IET Generation, Transmission & Distribution, and Chair of IEEE San Francisco Section Chapter PES. He also serves as Chair of IEEE TF of IoT for Power Systems, and Secretary of IEEE Working Group of Machine Learning for Power Systems. He was an editor of IEEE Transactions on Smart Grid during 2017-2021.
 
 Before joining NMSU, Dr. Shi founded AInergy to provide AI and IoT driven solutions for the energy industry. Prior to AInergy, he was a Researcher, Director of Fundamental R&D Center and Department Head of the AI & System Analytics Group at Global Energy Interconnection Research Institute North America (GEIRINA). Prior to GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
 
