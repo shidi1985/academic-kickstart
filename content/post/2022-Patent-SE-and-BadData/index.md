@@ -23,6 +23,6 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-This invention is power system state estimation based on machine learning and AI.
+This invention is about power system state estimation and bad data identification and recovery based on machine learning and AI. In particular, a two-stage autoencoder is used to addressed the bad data issues in state estimation problem involving synchrophasor measurements.
 
 "Systems and Methods of Bad Data Identification and Recovery for Electric Power Systems"
