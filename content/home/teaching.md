@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 24]
+[GRANTED: 25]
 
 P1.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
@@ -64,35 +64,35 @@ P23. R. Diao, D. Shi, B. Zhang, S. Wang, et al., "Multi-objective Real-time Powe
 
 P24. D. Shi, X. Zhao, F. Xue, H. Peng, J. Qin, C. Jing, and Z. Wang, “Generalized Equivalent Circuit Model of MMC-HVDC for Power System Simulation,” US Patent 11,404,973.
 
-[ALLOWED/PENDING: 18]
+P25. Y. Gu, G. Tian, C. Xu, H. Wu, Z. Yu, and D. Shi, "Systems and Methods of Bad Data Identification and Recovery for Electric Power Systems," US Patent 11,480,594.
 
-P25.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
+[ALLOWED/PENDING: 17]
 
-P26.	H. Li, X. Lu, Y. Xiang, and D. Shi. “Method for Aggregation of Distributed Load to Provide Grid Services,” US Patent Application No. 62,681,806.
+P26.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent Application No. 62,741,408.
 
-P27.	X. Lu, D. Shi, Y. Xiang. “Method and Device for Distributed Frequency and Voltage Regulation for Power Systems,” US Patent Application No. 62,681,971.
+P27.	H. Li, X. Lu, Y. Xiang, and D. Shi. “Method for Aggregation of Distributed Load to Provide Grid Services,” US Patent Application No. 62,681,806.
 
-P28.	Z. Yi, H. Li, X. Zhang, X. Zhao, D. Shi, R. Diao, and Z. Wang, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent App. No. 16,390,510.
+P28.	X. Lu, D. Shi, Y. Xiang. “Method and Device for Distributed Frequency and Voltage Regulation for Power Systems,” US Patent Application No. 62,681,971.
 
-P29.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent App. No. 16,594,033.
+P29.	Z. Yi, H. Li, X. Zhang, X. Zhao, D. Shi, R. Diao, and Z. Wang, “MPC-Based PV Maximum Power Point Tracker for Transformerless H5 Inverter with Leakage Current Reduction,” US Patent App. No. 16,390,510.
 
-P30.	J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System Based on Reinforcement Learning,” US Patent App. No. 16,518,619.
+P30.	D. Shi, R. Diao, Z. Wang, Q. Chang, J. Duan, and X. Zhang, “Autonomous Voltage Control for Power System Using Deep Reinforcement Learning Considering N-1 Contingency,” US Patent App. No. 16,594,033.
 
-P31.	Y. Wang, Q. Chang, X. Zhao, D. Shi, and Z. Wang, “Probabilistic Load Forecasting via Point Forecast Feature Integration,” US Patent App. No. 16,391,992.
+P31.	J. Duan, Z. Yi, X. Lu, D. Shi, and Z. Wang, “Optimal Charging and Discharging Control for Hybrid Energy Storage System Based on Reinforcement Learning,” US Patent App. No. 16,518,619.
 
-P32.	Y. Wang, H. Li, D. Shi, Q. Zhang, C. Xu, and Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent App. No. 16,392,494.
+P32.	Y. Wang, Q. Chang, X. Zhao, D. Shi, and Z. Wang, “Probabilistic Load Forecasting via Point Forecast Feature Integration,” US Patent App. No. 16,391,992.
 
-P33.	S. Wang, R. Diao, T. Lan, X. Lu, D. Shi, Z. Wang, “AI-aided Automatic Dynamic Model Validation and Parameter Calibration Platform,” US Patent App. No. 62,930,152.
+P33.	Y. Wang, H. Li, D. Shi, Q. Zhang, C. Xu, and Z. Wang, “Submodular Load Clustering with Robust Principal Component Analysis,” US Patent App. No. 16,392,494.
 
-P34.	D. Shi, J. Duan, R. Diao, B. Zhang, X. Lu, H. Li, et al., “An Approach for Autonomous Voltage Control for Grid Operations Using Deep Deterministic Policy Gradient,” US Patent App. No. 62,833,776.
+P34.	S. Wang, R. Diao, T. Lan, X. Lu, D. Shi, Z. Wang, “AI-aided Automatic Dynamic Model Validation and Parameter Calibration Platform,” US Patent App. No. 62,930,152.
 
-P35.	J. Duan, S. Wang, D. Shi, R. Diao, B. Zhang, X. Lu, Z. Wang, “A Data-driven Multi-agent Autonomous Voltage Control Framework based on Deep Reinforcement Learning,” US Patent App. No. 62,933,194.
+P35.	D. Shi, J. Duan, R. Diao, B. Zhang, X. Lu, H. Li, et al., “An Approach for Autonomous Voltage Control for Grid Operations Using Deep Deterministic Policy Gradient,” US Patent App. No. 62,833,776.
 
-P36.	X. Wang, Y. Wang, D. Shi, Y. Lin, S. Wang, and Z. Wang, “Two-stage WECC Composite Load Modeling with A Double Deep Q-Learning Networks Approach,” US Patent App. No. 62,887,167.
+P36.	J. Duan, S. Wang, D. Shi, R. Diao, B. Zhang, X. Lu, Z. Wang, “A Data-driven Multi-agent Autonomous Voltage Control Framework based on Deep Reinforcement Learning,” US Patent App. No. 62,933,194.
 
-P37.	Y. Lin, Y. Wang, D. Shi, X. Wang, S. Wang, and Z. Wang, “Global Sensitivity Analysis in Load Modeling via Low-rank Tensor,” US Patent App. No. 62,888,967.
+P37.	X. Wang, Y. Wang, D. Shi, Y. Lin, S. Wang, and Z. Wang, “Two-stage WECC Composite Load Modeling with A Double Deep Q-Learning Networks Approach,” US Patent App. No. 62,887,167.
 
-P38.	G. Tian, Y. Gu, X. Lu, D. Shi, and Z. Wang, “Method of Online Bad Data Identification and Recovery Using A Two-stage Autoencoder,” US Patent App. No. 62,932,184.
+P38.	Y. Lin, Y. Wang, D. Shi, X. Wang, S. Wang, and Z. Wang, “Global Sensitivity Analysis in Load Modeling via Low-rank Tensor,” US Patent App. No. 62,888,967.
 
 P39.	G. Tian, Y. Gu, X. Lu, D. Shi, Z. Wang, “Method for Power System State Estimation Using Neural Network,” US Patent App. No. 62,932,335.
 
