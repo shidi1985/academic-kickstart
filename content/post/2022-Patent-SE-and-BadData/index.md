@@ -1,5 +1,5 @@
 +++
-title = "One US patent on State Estimation, Bad Data Identification and Recovery has been granted with patent no. 11,480,594"
+title = "One US patent on State Estimation, and Bad Data Identification and Recovery has been granted with patent no. 11,480,594"
 date = 2022-10-06T00:00:00
 
 # List format.
