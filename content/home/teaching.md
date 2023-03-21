@@ -68,6 +68,7 @@ P25. Y. Gu, G. Tian, C. Xu, H. Wu, Z. Yu, and D. Shi, "Systems and Methods of Ba
 
 P26. D. Bian, X. Zhang, D. Shi, R. Diao, S. Wang, and Z. Liang, "Deep Reinforcement Learning Based Real-time scheduling of ESS in Commercial Campus," US Patent 11,610,214.
 
++++
 #[ALLOWED/PENDING: 17]
 
 #P26.	Y. Wang, Q. Chang, D. Shi, Z. Wang, “A Probabilistic Two-stage Load Forecasting Method using Point Forecast and Quantile Regression Neural Network,” US Patent #Application No. 62,741,408.
@@ -101,3 +102,4 @@ P26. D. Bian, X. Zhang, D. Shi, R. Diao, S. Wang, and Z. Liang, "Deep Reinforcem
 #P40.	Z. Yu, Y. Wang, D. Shi, and Z. Wang, “Machine Learning in Oscillation Classification and Forced Oscillation Source Locating,” US Patent App. No. 62,891,756.
 
 #P41.	T. Lan, J. Duan, B. Zhang, D. Shi, Z. Wang, R. Diao, and X. Zhang, “An Approach for Line Flow Control via Topology Adjustment,” US Patent App. No. 62,932,398.
++++
