@@ -321,10 +321,10 @@ enableGitInfo = false
   url="#awards"
   weight=8
   
- [[menu.main]]
- name = "Talks"
- url="#invited_talks"
- weight=10
+ #[[menu.main]]
+ #name = "Talks"
+ #url="#invited_talks"
+ #weight=10
 
 [[menu.main]]
 name= "Publications"
