@@ -51,6 +51,8 @@ filter_default = 0
 +++
 [Journal Papers]
 
+[88] S. Nematshahi, D. Shi, F. Wang, and B. Yan, "Deep Reinforcement Learning Based Voltage Control Revisited," IET Generation, Transmission & Distribution, 2023.
+
 [87] Y. Lin, X. Zhang, J. Wang, D. Shi, and D. Bian, "Voltage Stability Constrained Optimal Power Flow for Unbalanced Distribution System Based on Semidefinite Programming," Journal of Modern Power Systems and Clean Energy, 2022.
 
 [86] R. Ma, Z. Yi, Y. Xiang, D. Shi, C. Xu, H. Wu, "A Blockchain-Enabled Demand Management and Control Framework Driven by Deep Reinforcement Learning," IEEE Transactions on Industrial Electronics, 2022.
