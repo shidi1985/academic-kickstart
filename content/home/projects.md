@@ -230,6 +230,16 @@ filter_default = 0
 
 [Conference Papers]
 
+[C86] Y. Zhang, J. Zhao, D. Shi, and S. Chung, “Deep Reinforcement Learning-Enabled Adaptive Forecasting-Aided State Estimation in Distribution Systems with Multi-source Multi-rate Data,” IEEE PES Innovative Smart Grid Technologies Conference (ISGT), 2024.
+
+[C85] M. Arif, F. Wang, D. Shi, L. Sun, and Z. Wang, “Analysis of the Impacts of Reserve Requirements on Marginal Emission Rate,” IEEE PES Innovative Smart Grid Technologies (ISGT) North America, 2024.
+
+[C84] H. Davoudi, F. Wang, A. Xavier, F. Qiu, and D. Shi, “Market Pricing and Settlements Analysis Considering Capacity Sharing and Reserve Substitutions of Operating Reserve Products,” North American Power Symposium, 2023.
+
+[C83] X. Wang, D. Shi, G. Xu, and F. Wang, “Edge-Computing Based Dynamic Anomaly Detection for Transmission Lines,” 2023 IEEE PES Innovative Smart Grid Technologies Conference, Jan. 2023
+
+[C82] H. Davoudi, F. Wang, A. Xavier, F. Qiu, and D. Shi, “Market Pricing and Settlements Analysis Considering Capacity Sharing and Reserve Substitutions of Operating Reserve Products,” North American Power Symposium (NAPS), 2023.
+
 [C81] Y. Zhou, L. Zhou, D. Shi, X. Zhao, "Coordinated Frequency Control through Safe Reinforcement Learning," IEEE PES General Meeting, 2022.
 
 [C80] H. Li, Y. Xiang, T. Jin, S. Wang, Z. Yi, and D. Shi, “A DRL-Based Approach for System Frequency Response Model Calibration,” 52nd North American Power Symposium (NAPS), 2021.
