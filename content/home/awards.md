@@ -14,6 +14,9 @@ subtitle = ""
 weight = 23
 
 +++
+2023 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2022
+  (Title of paper: Deep Reinforcement Learning Based Real-time AC Optimal Power Flow Considering Uncertainties)
+
 2023 Best Paper Finalist, 2023 IEEE Innovative Smart Grid Technologies (ISGT)
   (Title of paper: Edge-Computing Based Dynamic Anomaly Detection for Transmission Lines; the top 5 papers were selected as finalists)
 
