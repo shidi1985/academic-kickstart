@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 26]
+[GRANTED: 27]
 
 P1.	D. Shi, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
@@ -67,3 +67,5 @@ P24. D. Shi, X. Zhao, F. Xue, H. Peng, J. Qin, C. Jing, and Z. Wang, “Generali
 P25. Y. Gu, G. Tian, C. Xu, H. Wu, Z. Yu, and D. Shi, "Systems and Methods of Bad Data Identification and Recovery for Electric Power Systems," US Patent 11,480,594.
 
 P26. D. Bian, X. Zhang, D. Shi, R. Diao, S. Wang, and Z. Liang, "Deep Reinforcement Learning Based Real-time scheduling of ESS in Commercial Campus," US Patent 11,610,214.
+
+P27. Y. Wang, X. Wang, H. Li, C. Xu, D. Shi, Y. Lin, S. Wang, etc., "Systems and Methods of Composite Load Modeling for Electric Power Systems," US Patent 11,900,031.
