@@ -1,5 +1,5 @@
 +++
-title = "New $6M Research Project Awarded from National Science Foundation"
+title = "New $6M Research Project Awarded from National Science Foundation (NSF)"
 date = 2024-07-22T12:00:00
 
 # List format.
