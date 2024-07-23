@@ -29,5 +29,9 @@ I feel very grateful for the hard work from my collaborators from NMSU and other
 
 Stay tuned for updates as we embark on this transformative journey!
 
-Check details at: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2418359&HistoricalAwards=false
+Check details at: https://newsroom.nmsu.edu/news/nmsu-awarded--6-million-nsf-grant-to-address-climate-change--aging-energy-infrastructure/s/3f0edcf3-6921-4ad6-a2b3-2e68ebeb077a?cat=news
+
+https://new.nsf.gov/news/nsf-announces-77-8m-investment-build-epscor 
+
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2418359&HistoricalAwards=false
 
