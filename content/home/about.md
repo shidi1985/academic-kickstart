@@ -36,7 +36,7 @@ weight = 3
 +++
 
 # 
-***I have RA/TA Scholarships and Postdoc positions available at New Mexico State University. Please check this letter if interested: <a href="https://www.dropbox.com/scl/fi/w5rjdj87n4bhtbrtmiwnr/Letter-to-prospective-student.pdf?rlkey=ci5xstl32wxjkjv5yzbolub05&dl=0"><strong><u>[Link]</u></strong></a>***
+***I have RA/TA Scholarships and Postdoc positions available at New Mexico State University. Please check this letter if interested: *** <a href="https://www.dropbox.com/scl/fi/w5rjdj87n4bhtbrtmiwnr/Letter-to-prospective-student.pdf?rlkey=ci5xstl32wxjkjv5yzbolub05&dl=0"><strong><u>[Link]</u></strong></a>
 
 
 Dr. Di Shi is an associate professor with the Klipsch School of Electrical and Computer Engineering at New Mexico State University (NMSU).
