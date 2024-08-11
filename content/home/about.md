@@ -49,4 +49,4 @@ Dr. Shi serves as Editor of IEEE Transactions on Power Systems, IEEE Power Engin
 Dr. Shi authored/co-authored over 170 journal and conference papers, and holds 42 patents/patent applications. He and his team have received 11 Best Paper Awards from various journals and conferences. He led his team to win the Championship of the 2019 Power System AI competition ***L2RPN***. Two technologies and solutions he and his team developed have been commercialized into products that help customers solve real-world problems with significant energy savings. Several software packages and platforms he developed have been adopted by utilities to run at multiple grid dispatch centers. 
 
 
-Here is a link showcasing the research outcomes and broader impacts from an NSF project I am leading: <a href="https://www.digicares.net" target="_blank"><strong><u>[Link]</u></strong></a>
+Here is a link showcasing the research outcomes and broader impacts from an NSF project I am leading: ***<a href="https://www.digicares.net" target="_blank"><strong><u>[Link]</u></strong></a>.***
