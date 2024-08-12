@@ -20,7 +20,6 @@ autolink = true
 email_form = 2
 +++
 
-
 +++
 # Page View Counter
 widget = "custom_html"
@@ -46,3 +45,4 @@ weight = 71
   </script>
   """
 +++
+
