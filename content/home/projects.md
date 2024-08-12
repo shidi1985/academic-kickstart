@@ -51,6 +51,8 @@ filter_default = 0
 +++
 [Journal Papers]
 
+[89] Y. Zhou, L. Zhou, Z. Yi, D. Shi, and M. Guo, "Leveraging AI for Enhanced Power Systems Control: An Introductory Study of Model-Free DRL Approaches," IEEE Access, 2024.
+
 [88] S. Nematshahi, D. Shi, F. Wang, and B. Yan, "Deep Reinforcement Learning Based Voltage Control Revisited," IET Generation, Transmission & Distribution, 2023.
 
 [87] Y. Lin, X. Zhang, J. Wang, D. Shi, and D. Bian, "Voltage Stability Constrained Optimal Power Flow for Unbalanced Distribution System Based on Semidefinite Programming," Journal of Modern Power Systems and Clean Energy, 2022.
@@ -229,6 +231,10 @@ filter_default = 0
 
 
 [Conference Papers]
+
+[C88] D. Shi, Q. Zhang, M. Hong, F. Wang, S. Maslennikov, X. Luo, and Y. Chen, "Implementing Deep Reinforcement Learning-Based Grid Voltage Control in Real-World Power Systems: Challenges and Insights," 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT - Europe), 2024.
+
+[C87] L. Zhou, Y. Zhou, Z. Yi, D. Shi, and Z. Huang, "Optimizing Grid Services: A Deep Deterministic Policy Gradient Approach for Demand-Side Resource Aggregation," 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT - Europe), 2024.
 
 [C86] Y. Zhang, J. Zhao, D. Shi, and S. Chung, “Deep Reinforcement Learning-Enabled Adaptive Forecasting-Aided State Estimation in Distribution Systems with Multi-source Multi-rate Data,” IEEE PES Innovative Smart Grid Technologies Conference (ISGT), 2024.
 
