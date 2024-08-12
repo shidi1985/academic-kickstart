@@ -49,7 +49,7 @@ filter_default = 0
 #   tag = "Demo"
 
 +++
-[Journal Papers]
+**[Journal Papers]**
 
 [89] Y. Zhou, L. Zhou, Z. Yi, D. Shi, and M. Guo, "Leveraging AI for Enhanced Power Systems Control: An Introductory Study of Model-Free DRL Approaches," IEEE Access, 2024.
 
@@ -230,7 +230,7 @@ filter_default = 0
 [J1] D. Shi, D. J. Tylavsky, K. M. Koellner, N. Logic and D. E. Wheeler, “Transmission Line Parameter Identification using PMU Measurements,” Euro. Trans. Electr. Power, vol. 21, no. 4, pp. 1574-1588, Nov. 2010.
 
 
-[Conference Papers]
+**[Conference Papers]**
 
 [C88] D. Shi, Q. Zhang, M. Hong, F. Wang, S. Maslennikov, X. Luo, and Y. Chen, "Implementing Deep Reinforcement Learning-Based Grid Voltage Control in Real-World Power Systems: Challenges and Insights," 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT - Europe), 2024.
 
