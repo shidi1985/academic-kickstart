@@ -69,3 +69,5 @@ P25. Y. Gu, G. Tian, C. Xu, H. Wu, Z. Yu, and D. Shi, "Systems and Methods of Ba
 P26. D. Bian, X. Zhang, D. Shi, R. Diao, S. Wang, and Z. Liang, "Deep Reinforcement Learning Based Real-time scheduling of ESS in Commercial Campus," US Patent 11,610,214.
 
 P27. Y. Wang, X. Wang, H. Li, C. Xu, D. Shi, Y. Lin, S. Wang, et al., "Systems and Methods of Composite Load Modeling for Electric Power Systems," US Patent 11,900,031.
+
+P28. 
