@@ -51,6 +51,10 @@ filter_default = 0
 +++
 **[Journal Papers]**
 
+[91] D. Shi, R. Hu, Y. Wu, et al., “Towards AI-Empowered Smart Power Grid: Forecasting, Dispatch and Control,” IEEE Power & Energy Magazine, Nov. 2024. DOI: 10.1109/MPE.2024.3408111.
+
+[90] H. Davoudi, F. Wang, Y. Chen, D. Shi, and A. Xavier, and F. Qiu, "Market Implications of Alternative Operating Reserve Modeling in Wholesale Electricity Markets," IEEE Trans. Energy Markets, Policy and Regulation, 2024.  
+
 [89] Y. Zhou, L. Zhou, Z. Yi, D. Shi, and M. Guo, "Leveraging AI for Enhanced Power Systems Control: An Introductory Study of Model-Free DRL Approaches," IEEE Access, 2024.
 
 [88] S. Nematshahi, D. Shi, F. Wang, and B. Yan, "Deep Reinforcement Learning Based Voltage Control Revisited," IET Generation, Transmission & Distribution, 2023.
