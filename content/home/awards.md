@@ -15,7 +15,7 @@ weight = 23
 
 +++
 2024 University Research Council Mid-Career Award
-  (Awarded annually to one NMSU faculty member for exceptional research and creative scholarly accomplishments.)
+  (Awarded annually to one NMSU faculty member university-wide for exceptional research and creative scholarly accomplishments.)
 
 2023 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2022
   (Title of paper: Deep Reinforcement Learning Based Real-time AC Optimal Power Flow Considering Uncertainties)
