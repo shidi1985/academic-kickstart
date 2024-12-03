@@ -51,6 +51,8 @@ filter_default = 0
 +++
 **[Journal Papers]**
 
+[92] T. Xia, Z. Yu, K. Sun, D. Shi, and K. Huang, "Estimation of Participation Factors for Power System Oscillation from Measurements," IEEE Transactions on Industry Applications, 2024.
+
 [91] D. Shi, R. Hu, Y. Wu, et al., “Towards AI-Empowered Smart Power Grid: Forecasting, Dispatch and Control,” IEEE Power & Energy Magazine, vol. 22, no. 6, Nov/Dec 2024. DOI: 10.1109/MPE.2024.3408111.
 
 [90] H. Davoudi, F. Wang, Y. Chen, D. Shi, and A. Xavier, and F. Qiu, "Market Implications of Alternative Operating Reserve Modeling in Wholesale Electricity Markets," IEEE Trans. Energy Markets, Policy and Regulation, 2024.  
