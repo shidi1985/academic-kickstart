@@ -25,8 +25,8 @@ list_format = 0
 +++
 I am honored to receive the 2024 University Research Council Mid-Career Award, presented annually to one faculty member university-wide for exceptional research and scholarly contributions. This recognition highlights my work in power systems, artificial intelligence, and machine learning, and I am deeply grateful for the continuous support from my mentors, colleagues, collaborators, and students.
 
-I look forward to presenting my research during Research and Creativity Week in April 2025 and sharing my ongoing work with the NMSU community.
+I look forward to receiving this recognition at the 2025 Spring Convocation, as well as presenting my research during Research and Creativity Week in April 2025 and sharing my ongoing work with the NMSU community.
 
 Thank you to the University Research Council for this prestigious honor!
 
-https://convocation.nmsu.edu/awards/urc.html
+More details at: https://convocation.nmsu.edu/awards/urc.html
