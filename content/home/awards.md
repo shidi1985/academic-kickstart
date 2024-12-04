@@ -17,8 +17,12 @@ weight = 23
 2024 University Research Council Mid-Career Award
   (Awarded annually to one NMSU faculty member university-wide for exceptional research and creative scholarly accomplishments.)
 
-2023 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2022
+2024 Best Paper of Journal of Modern Power Systems and Clean Energy (MPCE) for year 2022
   (Title of paper: Deep Reinforcement Learning Based Real-time AC Optimal Power Flow Considering Uncertainties)
+
+2024 IET Fellow
+
+2023 NMSU PI Academy Proposal Development Award
 
 2023 Best Paper Finalist, 2023 IEEE Innovative Smart Grid Technologies (ISGT)
   (Title of paper: Edge-Computing Based Dynamic Anomaly Detection for Transmission Lines; the top 5 papers were selected as finalists)
