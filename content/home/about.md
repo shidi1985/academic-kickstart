@@ -42,7 +42,7 @@ weight = 3
 
 Dr. Di Shi is an associate professor with the Klipsch School of Electrical and Computer Engineering at New Mexico State University (NMSU).
 
-Before joining NMSU, Dr. Shi founded a tech startup that commercializes his technology and software pages, now deployed at 15 utility companies. Prior to AInergy, he was a Researcher, Director of Fundamental R&D Center and Department Head of the AI & System Analytics Group at GEIRINA. Prior to GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
+Before joining NMSU, Dr. Shi founded a tech startup that commercializes his technology and software solutions, now deployed at 15 utility companies. Prior to AInergy, he was a Researcher, Director of Fundamental R&D Center and Department Head of the AI & System Analytics Group at GEIRINA. Prior to GEIRINA, he held various research positions at NEC Laboratories America (NECLA), Electric Power Research Institute (EPRI), and ASU. He also worked as (part-time) Principal/Senior Consultant for two consulting firms. 
 
 Dr. Shi serves as Editor of IEEE Transactions on Power Systems, IEEE Power Engineering Letters, IET Generation, Transmission & Distribution, Journal of Modern Power Systems and Clean Energy, and Chair of IEEE San Francisco Section Chapter PES. He also serves as Chair of IEEE TF of IoT for Power Systems, and Secretary of IEEE Working Group of Machine Learning for Power Systems. He served as editor of IEEE Transactions on Smart Grid during 2017-2021. He is a Fellow of IET.
 
