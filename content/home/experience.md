@@ -67,7 +67,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Founder"
   company = "AINERGY, LLC"
-  company_url = ""
+  company_url = "https://ainergysolutions.com/"
   location = ""
   date_start = "2020-12-24"
   date_end = "2022-07-31"
