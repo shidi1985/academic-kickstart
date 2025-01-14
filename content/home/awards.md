@@ -14,6 +14,9 @@ subtitle = ""
 weight = 23
 
 +++
+2025 Paul W. and Valerie Klipsch Distinguished Professorship
+  (This endowment was set up by Paul and Valerie Klipsch to reward outstanding faculty who have made significant contributions to graduating world-class engineers)
+
 2024 University Research Council Mid-Career Award
   (Awarded annually to one NMSU faculty member university-wide for exceptional research and creative scholarly accomplishments)
 
