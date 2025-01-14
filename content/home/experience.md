@@ -65,7 +65,7 @@ date_format = "January 2006"
   description = """Led and coordinated across multiple research programs on project planning, management, and business development. Led the AI & System Analytics Group in researching innovative technologies and solutions for power systems in areas of data analytics, AI, energy storage systems, and Internet of things (IoT). Started the AI & System Analytics department (research program) and grew the team to 17 full-time researchers over 5 years."""
  
 [[experience]]
-  title = "Founder"
+  title = "Founder and Principal"
   company = "AINERGY, LLC"
   company_url = "https://ainergysolutions.com/"
   location = ""
