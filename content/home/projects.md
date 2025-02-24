@@ -238,6 +238,8 @@ filter_default = 0
 
 **[Conference Papers]**
 
+[C90] Y. Zhang, Y. Wang, Y. Zhang, E. Larson, F. Sui, and D. Shi, “On the Potential of Digital Twins for Distribution System State Estimation with Randomly Missing Data in Heterogeneous Measurements,” IEEE PES General Meeting, 2025.
+
 [C89] J. Ansu, F. Wang, and D. Shi, "Analysis of Unit Commitment Considering Demand Response and Synthetic Inertia in Electricity Markets," The 56th North American Power Symposium (NAPS), 2024.
 
 [C88] D. Shi, Q. Zhang, M. Hong, F. Wang, S. Maslennikov, X. Luo, and Y. Chen, "Implementing Deep Reinforcement Learning-Based Grid Voltage Control in Real-World Power Systems: Challenges and Insights," 2024 IEEE PES Innovative Smart Grid Technologies Europe (ISGT - Europe), 2024.
