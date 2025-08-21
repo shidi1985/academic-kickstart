@@ -1,10 +1,11 @@
+# netlify.toml
 [build]
   publish = "public"
   command = "hugo --gc --minify"
 
 [build.environment]
-  # Pin a modern extended Hugo version (works with Academic/Wowchemy)
-  HUGO_VERSION = "0.111.3"
+  HUGO_VERSION = "0.57.2"
   HUGO_EXTENDED = "true"
   HUGO_ENV = "production"
+  # (optionally keep or remove)
   HUGO_ENABLEGITINFO = "true"
