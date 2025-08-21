@@ -1,8 +1,10 @@
 [build]
   publish = "public"
-  command = "hugo"
+  command = "hugo --gc --minify"
 
-[context.production.environment]
-  HUGO_VERSION = "0.50"
+[build.environment]
+  # Pin a modern extended Hugo version (works with Academic/Wowchemy)
+  HUGO_VERSION = "0.111.3"
+  HUGO_EXTENDED = "true"
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
