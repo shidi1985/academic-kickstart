@@ -238,9 +238,9 @@ filter_default = 0
 
 **[Conference Papers]**
 
-[C93] E. C. Fatule, F. Wang, D. Shi, Z. Guo, K. Sun, and L. Sun, "A Model for the Scheduling of Commercial eVTOL Flights Considering Grid Restrictions," in Proc. 2024 57th North American Power Symp. (NAPS), pp. 1-6, Oct. 2025.
+[C93] E. C. Fatule, F. Wang, D. Shi, Z. Guo, K. Sun, and L. Sun, "A Model for the Scheduling of Commercial eVTOL Flights Considering Grid Restrictions," in Proc. 2024 57th North American Power Symp. (NAPS), pp. 1-6, 2025.
 
-[C92] S. Fanifosi, Y. Ye, P. Verma, F. Wang, D. Shi, “Uncertainty-Aware Deep Reinforcement Learning for Robust Autonomous Voltage Control,” in Proc. 2024 57th North American Power Symp. (NAPS), pp. 1-6, Oct. 2025.
+[C92] S. Fanifosi, Y. Ye, P. Verma, F. Wang, D. Shi, “Uncertainty-Aware Deep Reinforcement Learning for Robust Autonomous Voltage Control,” in Proc. 2024 57th North American Power Symp. (NAPS), pp. 1-6, 2025.
 
 [C91] P. Verma, D. Shi, Y. Ye, F. Wang, and Y. Zhang, "Impact of Solar Integration on Grid Security: Unveiling Vulnerabilities in Load Redistribution Attacks," IEEE PowerTech, 2025.
 
