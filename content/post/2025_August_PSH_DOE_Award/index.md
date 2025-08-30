@@ -29,7 +29,7 @@ This effort is supported by $7.1 million in funding from the U.S. Department of 
 
 The award reflects over three years of sustained effort by NMSU researchers and partners. The project is led by Dr. Fengyu Wang (PI) in collaboration with the Navajo Nation and national research institutions.
 
-Dr. Di Shi plays a central leadership role, heading the project’s AI and dynamic modeling and simulation research. His team will develop advanced computational methods to evaluate PSH feasibility, model dynamic behavior, optimize control strategies, and enhance energy resilience.
+As Co-PI, Dr. Shi leads the project’s AI and dynamic modeling and simulation research, developing cutting-edge computational methods to evaluate PSH feasibility, simulate dynamic behavior, optimize control strategies, and enhance long-term energy resilience.
 
 The project will:
 
@@ -47,6 +47,7 @@ https://newsroom.nmsu.edu/news/nmsu-to-lead-hydropower-project--collaborate-with
 https://carrizo.nmsu.edu/
 
 https://www.energy.gov/eere/articles/energy-department-celebrates-national-hydropower-day-advancing-american-energy
+
 
 
 
