@@ -1,5 +1,5 @@
 +++
-title = "NMSU Awarded $14.2M DOE Project on Pumped-Storage Hydropower"
+title = "NMSU Awarded $14.2M Project on Pumped-Storage Hydropower from the Department of Energy"
 date = 2025-08-25T00:00:00
 
 # List format.
@@ -37,6 +37,7 @@ https://newsroom.nmsu.edu/news/nmsu-to-lead-hydropower-project--collaborate-with
 https://carrizo.nmsu.edu/
 
 https://www.energy.gov/eere/articles/energy-department-celebrates-national-hydropower-day-advancing-american-energy
+
 
 
 
