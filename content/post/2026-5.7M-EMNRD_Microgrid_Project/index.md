@@ -23,11 +23,12 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-I am pleased to share that our microgrid proposal has been selected for funding under EMNRD’s Grid Modernization program. The project includes $3.28M from EMNRD and $2.4M in cost share from Kit Carson Electric Cooperative (KCEC), bringing the total project value to approximately $5.7M.
+Our microgrid proposal has been selected for funding under EMNRD’s Grid Modernization program. The project includes $3.28M from EMNRD and $2.4M in cost share from Kit Carson Electric Cooperative (KCEC), bringing the total project value to approximately $5.7M.
 
 Through this project, NMSU and my team will work with KCEC to build a utility-operated microgrid in northern New Mexico that will serve as a real-world platform for student training and for demonstrating and validating the algorithms and energy management strategies developed at NMSU. Technically, the microgrid will integrate inverter-based resources and battery energy storage with hierarchical controls, including optimal dispatch and real-time energy management in both grid-connected and islanded operation. The project will also evaluate resilience-oriented operation under disturbance scenarios using field data, with hardware-in-the-loop and edge deployment where appropriate.
 
 In addition, the project will integrate our edge-AI–driven wildfire detection system with the microgrid to enable a highly novel end-to-end demonstration of power system resilience.
+
 
 
 
