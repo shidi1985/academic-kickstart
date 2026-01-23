@@ -1,5 +1,5 @@
 +++
-title = "New $5.7M EMNRD Grid Modernization Microgrid Project Selected for Funding"
+title = "New $5.7M EMNRD Grid Modernization Peñasco Microgrid Project Selected for Funding"
 date = 2026-01-22T00:00:00
 
 # List format.
@@ -32,6 +32,7 @@ Through this project, my team at NMSU will work with KCEC to use the microgrid a
 In addition, the project will integrate our edge-AI–driven wildfire detection system with the microgrid to enable a highly novel end-to-end demonstration of power system resilience.
 
 EMNRD Grid Modernization program: https://www.emnrd.nm.gov/ecmd/grid-modernization-grant-program/
+
 
 
 
