@@ -1,5 +1,5 @@
 +++
-title = "--Field Deployment of Edge-AI Wildfire Detection System with KCEC"
+title = "Field Deployment of Edge-AI Wildfire Detection System with KCEC"
 date = 2025-11-20T00:00:00
 
 # List format.
@@ -30,6 +30,7 @@ Wildfire remains one of the most significant risks for KCEC and for many communi
 This deployment also marks the sixth system I have had the opportunity to design and bring into practice over the past thirteen years—spanning research labs, a technology startup, and now academia. Each project has deepened my understanding of how field environments test assumptions and drive the evolution of practical, scalable solutions.
 
 More deployments and testing are planned in the coming year, and the data generated from this system will contribute to my ongoing research in digital twins, edge intelligence, and energy resilience.
+
 
 
 
