@@ -29,6 +29,9 @@ Through this project, NMSU and my team will work with KCEC to build a utility-op
 
 In addition, the project will integrate our edge-AI–driven wildfire detection system with the microgrid to enable a highly novel end-to-end demonstration of power system resilience.
 
+EMNRD Grid Modernization program: https://www.emnrd.nm.gov/ecmd/grid-modernization-grant-program/
+
+
 
 
 
