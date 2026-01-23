@@ -1,6 +1,6 @@
 +++
 title = "New $5.7M EMNRD Grid Modernization Microgrid Project Selected for Funding"
-date = 2026-01-26T00:00:00
+date = 2026-01-22T00:00:00
 
 # List format.
 #   0 = Simple
@@ -28,6 +28,7 @@ Our microgrid proposal has been selected for funding under EMNRD’s Grid Modern
 Through this project, NMSU and my team will work with KCEC to build a utility-operated microgrid in northern New Mexico that will serve as a real-world platform for student training and for demonstrating and validating the algorithms and energy management strategies developed at NMSU. Technically, the microgrid will integrate inverter-based resources and battery energy storage with hierarchical controls, including optimal dispatch and real-time energy management in both grid-connected and islanded operation. The project will also evaluate resilience-oriented operation under disturbance scenarios using field data, with hardware-in-the-loop and edge deployment where appropriate.
 
 In addition, the project will integrate our edge-AI–driven wildfire detection system with the microgrid to enable a highly novel end-to-end demonstration of power system resilience.
+
 
 
 
