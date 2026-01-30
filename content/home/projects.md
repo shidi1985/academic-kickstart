@@ -51,6 +51,8 @@ filter_default = 0
 +++
 **[Journal Papers]**
 
+[94] M. Arif, F. Wang, D. Shi, and L. Sun, “Locational Marginal Emission Rates Calculation Considering Reserve Requirements,” Applied Energy, 2026.
+
 [93] X. Wang, D. Shi, and F. Wang, “Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence,” IEEE Open Access Journal of Power and Energy, 2025.
 
 [92] T. Xia, Z. Yu, K. Sun, D. Shi, and K. Huang, "Estimation of Participation Factors for Power System Oscillation From Measurements," IEEE Transactions on Industry Applications, 2024.
