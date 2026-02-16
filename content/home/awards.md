@@ -14,6 +14,8 @@ subtitle = ""
 weight = 23
 
 +++
+2026 Faculty Leadership Synergy Award, NMSU College of Engineering
+
 2025 Paul W. and Valerie Klipsch Distinguished Professorship
   (This endowment was set up by Paul and Valerie Klipsch to reward outstanding faculty who have made significant contributions to graduating world-class engineers)
 
@@ -90,3 +92,4 @@ weight = 23
 
 2004-2007	A total of five Scholarships from XJTU (all for top 1%)
 (TangWenZhi Scholarship, BMW Scholarship, ZhongJiaoTongLi Scholarship, SiYuan Scholarship 1st Prize, Freshman Scholarship 1st Prize) 
+
