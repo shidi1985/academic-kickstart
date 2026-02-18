@@ -39,7 +39,6 @@ weight = 3
 ***I have RA/TA Scholarships and Postdoc positions available at New Mexico State University. Please check this letter if interested: <a href="https://www.dropbox.com/scl/fi/w5rjdj87n4bhtbrtmiwnr/Letter-to-prospective-student.pdf?rlkey=ci5xstl32wxjkjv5yzbolub05&dl=0" target="_blank"><strong><u>[Link]</u></strong></a>.***
 
 
-
 Dr. Di Shi is an Associate Professor at the Klipsch School of Electrical and Computer Engineering at New Mexico State University (NMSU), where he holds the Paul W. and Valerie Klipsch Distinguished Professorship.
 
 Before joining NMSU, Dr. Shi founded AInergy, a tech startup aimed at commercializing his innovative technologies and software solutions, which are now deployed by 15 utility companies. Prior to founding AInergy, he held leadership roles at GEIRINA, serving as a Researcher, Director of the Fundamental R&D Center, and Department Head of AI & System Analytics. Earlier in his career, Dr. Shi conducted research at NEC Laboratories America (NECLA), the Electric Power Research Institute (EPRI), and Arizona State University (ASU). He also worked part-time as a Principal/Senior Consultant for two consulting firms.
