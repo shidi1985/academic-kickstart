@@ -31,7 +31,12 @@ This deployment also marks the sixth system I have had the opportunity to design
 
 More deployments and testing are planned in the coming year, and the data generated from this system will contribute to my ongoing research in digital twins, edge intelligence, and energy resilience.
 
+For more info, check:
+https://newsroom.nmsu.edu/news/nmsu-engineering-professors-develop-ai-detection-for-wildfires/s/09d5d29e-8dd6-4c7a-be88-577568476463
 
+https://www.yahoo.com/news/articles/nmsu-professors-propose-ai-wildfire-225332540.html
+
+https://www.elpasoinc.com/news/local_news/ai-wildfire-detection-system/article_84371dff-3862-4ae0-8c1b-4572a7a1ec8b.html
 
 
 
