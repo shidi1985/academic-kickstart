@@ -23,9 +23,10 @@ list_format = 0
   focal_point = "Smart"
 
 +++
-I am grateful to receive the 2026 College of Engineering Leadership Synergy Award from the NMSU College of Engineering. This award recognizes leadership that reflects a unique combination of interpersonal, intrapersonal, and professional skills—bringing vision, strong communication, collaboration, and entrepreneurship together to inspire others to share in a common direction.
+I am grateful to receive the 2026 College of Engineering Leadership Synergy Award from NMSU College of Engineering. This award recognizes leadership that reflects a unique combination of interpersonal, intrapersonal, and professional skills—bringing vision, strong communication, collaboration, and entrepreneurship together to inspire others to share in a common direction.
 
 This honor reflects the collective efforts of my students, collaborators, and campus partners as we advance interdisciplinary research and education in AI-enabled energy systems and resilient power infrastructure. Thank you to my colleagues for the nomination and to the College of Engineering for this recognition.
+
 
 
 
