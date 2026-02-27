@@ -51,7 +51,9 @@ filter_default = 0
 +++
 **[Journal Papers]**
 
-[94] M. Arif, F. Wang, D. Shi, and L. Sun, “Locational Marginal Emission Rates Calculation Considering Reserve Requirements,” Applied Energy, 2026.
+[95] M. Arif, F. Wang, D. Shi, and L. Sun, “Locational Marginal Emission Rates Calculation Considering Reserve Requirements,” Applied Energy, 2026.
+
+[94] C. Fan, M. Prothan, Y. Zhu, and D. Shi, “Two Decades of Urban Transformation and Heat Dynamics in a Desert Metropolis: Linking Land Cover, Demographics, and Surface Temperature,” Land, 2025.
 
 [93] X. Wang, D. Shi, and F. Wang, “Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence,” IEEE Open Access Journal of Power and Energy, 2025.
 
@@ -264,7 +266,7 @@ filter_default = 0
 
 [C85] M. Arif, F. Wang, D. Shi, L. Sun, and Z. Wang, “Analysis of the Impacts of Reserve Requirements on Marginal Emission Rate,” IEEE PES Innovative Smart Grid Technologies (ISGT) North America, 2024.
 
-[C84] H. Davoudi, F. Wang, A. Xavier, F. Qiu, and D. Shi, “Market Pricing and Settlements Analysis Considering Capacity Sharing and Reserve Substitutions of Operating Reserve Products,” North American Power Symposium, 2023.
+[C84] H. Davoudi, F. Wang, D. Shi, A. Xavier, F. Qiu, and Y. Chen, “Market Pricing and Settlements Analysis Considering Capacity Sharing and Reserve Substitutions of Operating Reserve Products,” North American Power Symposium, 2023.
 
 [C83] X. Wang, D. Shi, G. Xu, and F. Wang, “Edge-Computing Based Dynamic Anomaly Detection for Transmission Lines,” 2023 IEEE PES Innovative Smart Grid Technologies Conference, Jan. 2023
 
