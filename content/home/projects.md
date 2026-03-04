@@ -244,6 +244,8 @@ filter_default = 0
 
 **[Conference Papers]**
 
+[C96] L. Wang, Y. Zhang, D. Shi, F. Ding, "Physics-Aware LLM-Based Probabilistic Wind Power Scenario Generation under Extreme Icing Conditions," in Proc. 2026 IEEE PES General Meeting, 2026.
+
 [C95] Y. Zhang, F. Wang, D. Shi, and C. Fan, "A Distance-Based Spatial-Temporal Simulator for Renewable Energy Forecasting Under Extreme Weather," IEEE PES T&D, 2026.
 
 [C94] M. Prothan, C. Fan, F. Wang, and D. Shi, “Segmented Wind Power Curve Calibration Using Sub-Hourly Power Bias Analysis,” in Proc. 2024 57th North American Power Symp. (NAPS), pp. 1-6, Oct. 2025.
