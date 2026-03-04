@@ -51,25 +51,25 @@ filter_default = 0
 +++
 **[Journal Papers]**
 
-[95] M. Arif, F. Wang, D. Shi, and L. Sun, “Locational Marginal Emission Rates Calculation Considering Reserve Requirements,” Applied Energy, 2026.
+[J95] M. Arif, F. Wang, D. Shi, and L. Sun, “Locational Marginal Emission Rates Calculation Considering Reserve Requirements,” Applied Energy, 2026.
 
-[94] C. Fan, M. Prothan, Y. Zhu, and D. Shi, “Two Decades of Urban Transformation and Heat Dynamics in a Desert Metropolis: Linking Land Cover, Demographics, and Surface Temperature,” Land, 2025.
+[J94] C. Fan, M. Prothan, Y. Zhu, and D. Shi, “Two Decades of Urban Transformation and Heat Dynamics in a Desert Metropolis: Linking Land Cover, Demographics, and Surface Temperature,” Land, 2025.
 
-[93] X. Wang, D. Shi, and F. Wang, “Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence,” IEEE Open Access Journal of Power and Energy, 2025.
+[J93] X. Wang, D. Shi, and F. Wang, “Real-Time Detection and Tracking of Foreign Object Intrusions in Power Systems via Feature-Based Edge Intelligence,” IEEE Open Access Journal of Power and Energy, 2025.
 
-[92] T. Xia, Z. Yu, K. Sun, D. Shi, and K. Huang, "Estimation of Participation Factors for Power System Oscillation From Measurements," IEEE Transactions on Industry Applications, 2024.
+[J92] T. Xia, Z. Yu, K. Sun, D. Shi, and K. Huang, "Estimation of Participation Factors for Power System Oscillation From Measurements," IEEE Transactions on Industry Applications, 2024.
 
-[91] D. Shi, R. Hu, Y. Wu, et al., “Towards AI-Empowered Smart Power Grid: Forecasting, Dispatch and Control,” IEEE Power & Energy Magazine, vol. 22, no. 6, Nov/Dec 2024. DOI: 10.1109/MPE.2024.3408111.
+[J91] D. Shi, R. Hu, Y. Wu, et al., “Towards AI-Empowered Smart Power Grid: Forecasting, Dispatch and Control,” IEEE Power & Energy Magazine, vol. 22, no. 6, Nov/Dec 2024. DOI: 10.1109/MPE.2024.3408111.
 
-[90] H. Davoudi, F. Wang, Y. Chen, D. Shi, and A. Xavier, and F. Qiu, "Market Implications of Alternative Operating Reserve Modeling in Wholesale Electricity Markets," IEEE Trans. Energy Markets, Policy and Regulation, 2024.  
+[J90] H. Davoudi, F. Wang, Y. Chen, D. Shi, and A. Xavier, and F. Qiu, "Market Implications of Alternative Operating Reserve Modeling in Wholesale Electricity Markets," IEEE Trans. Energy Markets, Policy and Regulation, 2024.  
 
-[89] Y. Zhou, L. Zhou, Z. Yi, D. Shi, and M. Guo, "Leveraging AI for Enhanced Power Systems Control: An Introductory Study of Model-Free DRL Approaches," IEEE Access, 2024.
+[J89] Y. Zhou, L. Zhou, Z. Yi, D. Shi, and M. Guo, "Leveraging AI for Enhanced Power Systems Control: An Introductory Study of Model-Free DRL Approaches," IEEE Access, 2024.
 
-[88] S. Nematshahi, D. Shi, F. Wang, and B. Yan, "Deep Reinforcement Learning Based Voltage Control Revisited," IET Generation, Transmission & Distribution, 2023.
+[J88] S. Nematshahi, D. Shi, F. Wang, and B. Yan, "Deep Reinforcement Learning Based Voltage Control Revisited," IET Generation, Transmission & Distribution, 2023.
 
-[87] Y. Lin, X. Zhang, J. Wang, D. Shi, and D. Bian, "Voltage Stability Constrained Optimal Power Flow for Unbalanced Distribution System Based on Semidefinite Programming," Journal of Modern Power Systems and Clean Energy, 2022.
+[J87] Y. Lin, X. Zhang, J. Wang, D. Shi, and D. Bian, "Voltage Stability Constrained Optimal Power Flow for Unbalanced Distribution System Based on Semidefinite Programming," Journal of Modern Power Systems and Clean Energy, 2022.
 
-[86] R. Ma, Z. Yi, Y. Xiang, D. Shi, C. Xu, H. Wu, "A Blockchain-Enabled Demand Management and Control Framework Driven by Deep Reinforcement Learning," IEEE Transactions on Industrial Electronics, 2022.
+[J86] R. Ma, Z. Yi, Y. Xiang, D. Shi, C. Xu, H. Wu, "A Blockchain-Enabled Demand Management and Control Framework Driven by Deep Reinforcement Learning," IEEE Transactions on Industrial Electronics, 2022.
 
 [J85] Z. Liang, D. Bian, X. Zhang, and D. Shi, "Risk-constrained Energy Management Strategy for a Commercial Campus Considering Comprehensive Reserves Against Islanding Conditions," CSEE Journal of Power and Energy Systems, 2021.
 
