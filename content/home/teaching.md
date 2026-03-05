@@ -14,7 +14,7 @@ subtitle = ""
 weight = 21
 
 +++
-[GRANTED: 28]
+[GRANTED: 29]
 
 P1.	**D. Shi**, R. Sharma, and F. Guo, “Wide Area Measurement System (WAMS) Based Control of Grid-scale Storage (GSS) for Power System Stability Enhancement,” US Patent 9,964,572.
 
@@ -52,7 +52,7 @@ P17. X. Zhang, **D. Shi**, X. Lu, et al., “Sensitivity Based Thevenin Index fo
 
 P18. X. Lu, **D. Shi**, Y. Xiang, H. Li, C. Xu, et al., “Smart outlet system with fast frequency tracking for power system frequency control using distributed appliances,” US Patent 11,114,893.
 
-P19. H. Li, X. Lu, Y. Xiang, C. Xu, **D. Shi**, Z. Yu, S. Xu, et al., “An Adaptive Method for Aggregation of Distributed Loads to Provide Emergency Frequency Support,” US Patent 11,178,610.
+P19. H. Li, X. Lu, Y. Xiang, C. Xu, **D. Shi**, Z. Yu, S. Xu, et al., “Adaptive Method for Aggregation of Distributed Loads to Provide Emergency Frequency Support,” US Patent 11,178,610.
 
 P20. Z. Yu, Y. Wang, H. Li, C. Fu, Z. Wang, and **D. Shi**, "Bayesian Estimation Based Parameter Estimation for Composite Load Model,” US Patent 11,181,873.
 
@@ -71,3 +71,5 @@ P26. D. Bian, X. Zhang, **D. Shi**, R. Diao, S. Wang, and Z. Liang, "Deep Reinfo
 P27. Y. Wang, X. Wang, H. Li, C. Xu, **D. Shi**, Y. Lin, S. Wang, et al., "Systems and Methods of Composite Load Modeling for Electric Power Systems," US Patent 11,900,031.
 
 P28. R. Diao, **D. Shi**, B. Zhang, S. Wang, and J. Duan, "A Method for Constructing a Power Grid Dispatch Control Model and a Power Grid Dispatch Control Strategy," Chinese Patent CN111864743.
+
+P29. **D. Shi**, X. Lu, X. Chen, et al., “Method and Device for Online Calibration of Synchrophasor Measurement Unit,” Chinese Patent CN107132500.
