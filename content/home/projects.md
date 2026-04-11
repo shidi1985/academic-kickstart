@@ -51,6 +51,8 @@ filter_default = 0
 +++
 **[Journal Papers]**
 
+[J96] X. Chen, W. Qin, and D. Shi, "Physics-Informed Deep Reinforcement Learning for Inter-Area Oscillation Damping via Shapley-based Generator Selection," IEEE Transactions on Power Systems, 2026.
+
 [J95] M. Arif, F. Wang, D. Shi, and L. Sun, “Locational Marginal Emission Rates Calculation Considering Reserve Requirements,” Applied Energy, 2026.
 
 [J94] C. Fan, M. Prothan, Y. Zhu, and D. Shi, “Two Decades of Urban Transformation and Heat Dynamics in a Desert Metropolis: Linking Land Cover, Demographics, and Surface Temperature,” Land, 2025.
