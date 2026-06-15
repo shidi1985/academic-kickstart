@@ -80,7 +80,6 @@ date_format = "January 2006"
   location = "New Mexico"
   date_start = "2022-08-15"
   date_end = ""
-  description = """Teach and lead research in AI-enabled power and energy systems, digital twins, and resilient cyber-physical infrastructure. Principal Investigator of multiple NSF-funded research initiatives. Hold Paul W. and Valerie Klipsch Distinguished Professorship.
-"""
+  description = """Teach and conduct research in AI-enabled power and energy systems, digital twins, and resilient cyber-physical infrastructure. Principal Investigator of multi-million-dollar NSF-, DOE-, and state-funded research initiatives. Hold the Paul W. and Valerie Klipsch Distinguished Professorship."""
 
 +++
