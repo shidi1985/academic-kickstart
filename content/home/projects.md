@@ -245,6 +245,11 @@ filter_default = 0
 
 
 **[Conference Papers]**
+[C99] L. Wang, D. Shi, F. Wang, and K. Sun, "Adaptive In-Context Operator Learning for Fast Power System Dynamic Simulation," in IEEE SmartGridComm 2026.
+
+[C98] S. Mehri, D. Shi, F. Wang, Y. Zhang, and F. Dadgostari, "Learning Sequential Decision-Making for Distributed Generation Planning in Smart Grids," in IEEE SmartGridComm 2026. 
+
+[C96] L. Wang, J. Chen, Y. Zhang, F. Sui, and D. Shi, "Deployment-Efficient Short-Term Load Forecasting in AI Data Centers via Sequence-to-Point Knowledge Distillation," in IEEE SmartGridComm 2026.
 
 [C96] L. Wang, Y. Zhang, D. Shi, and F. Ding, "Physics-Aware LLM-Based Probabilistic Wind Power Scenario Generation under Extreme Icing Conditions," in Proc. 2026 IEEE PES General Meeting, 2026.
 
