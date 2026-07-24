@@ -14,6 +14,9 @@ subtitle = ""
 weight = 23
 
 +++
+2026 Excellent Associate Editor Award, Journal of Modern Power Systems and Clearn Energy (MPCE)
+  (For the excellent associate editor in the year 2025)
+
 2026 Faculty Leadership Synergy Award, NMSU College of Engineering
 
 2025 Paul W. and Valerie Klipsch Distinguished Professorship
