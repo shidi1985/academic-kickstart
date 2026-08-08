@@ -93,6 +93,8 @@ weight = 23
 
 2007	Outstanding Graduate of Shaan Xi Province (top 1%)
 
-2004-2007	A total of five Scholarships from XJTU (all for top 1%)
-(TangWenZhi Scholarship, BMW Scholarship, ZhongJiaoTongLi Scholarship, SiYuan Scholarship 1st Prize, Freshman Scholarship 1st Prize) 
+2006  Tang Wenzhi Scholarship (Highest Honor in Xi'an Jiaotong University, only awarded to 13/20,000 undergraduates 200-2006)
+
+2004-2007	A total of four Scholarships from XJTU (all for top <1%)
+(BMW Scholarship, ZhongJiaoTongLi Scholarship, SiYuan Scholarship 1st Prize, Freshman Scholarship 1st Prize) 
 
